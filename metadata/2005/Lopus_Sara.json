@@ -1,0 +1,83 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Lopus",
+          "given_name": "Sara"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "The relationship between Pemphis acidula, a parasitic angiosperm, and Cassytha filiformis was investigated on the Tiahura Motu, Moorea, French Polynesia. Comparisons were made between the architectural structure, resource allocation, and germination rates of parasitized and unparasitized plants. Parallel comparisons were made between parasitized and unparasitized branches on parasitized plants. Parasitized Pemphis had larger branches, thinner leaves, more mature fruits, and higher germination rates than did unparasitized plants; within parasitized plants, parasitized branches exhibited significant differences in all those categories in comparison with unparasitized branches. These indicators of improved fitness of parasitized over unparisitized individuals could be a result of selection by the parasite for resource-rich host plants. It is also possible that the relationship between Cassytha and Pemphis has evolved over time to be one of commensalism rather than parasitism.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2005/Lopus_Sara",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2005",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Pemphis acidula"
+      },
+      {
+        "subject": "Cassytha filiformis"
+      },
+      {
+        "subject": "Lauraceae"
+      },
+      {
+        "subject": "parasite"
+      },
+      {
+        "subject": "host fitness"
+      },
+      {
+        "subject": "motu"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The relationship between a parasite and its host: an investigation of Cassytha filiformis (Lauraceae) and Pemphis acidula on Moorea, French Polynesia",
+    "version": 1
+  }
+}

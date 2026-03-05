@@ -1,0 +1,102 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Wettach",
+          "given_name": "G. R."
+        },
+        "type": "personal"
+      },
+      {
+        "person_or_org": {
+          "family_name": "Smith",
+          "given_name": "J. L."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1994/Wettach_GR_Smith_JL",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1994",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Insecta"
+      },
+      {
+        "subject": "Diptera"
+      },
+      {
+        "subject": "Culicidae"
+      },
+      {
+        "subject": "Aedes polynesiensis"
+      },
+      {
+        "subject": "Toxorhynchites amboinensis"
+      },
+      {
+        "subject": "mosquitoes"
+      },
+      {
+        "subject": "predation"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Developmental response of Aedes polynesiensis to resource limitation and predation by Toxorhynchites amboinensis (Diptera: Culicidae) within coconuts",
+    "version": 1
+  }
+}

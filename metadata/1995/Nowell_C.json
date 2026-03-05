@@ -1,0 +1,107 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Nowell",
+          "given_name": "C."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1995/Nowell_C",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1995",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Nudibranchia"
+      },
+      {
+        "subject": "Mollusca"
+      },
+      {
+        "subject": "Risbecia imperialis"
+      },
+      {
+        "subject": "Glossodoris cincta"
+      },
+      {
+        "subject": "Chromodoris"
+      },
+      {
+        "subject": "Chromodorididae"
+      },
+      {
+        "subject": "Dysidea"
+      },
+      {
+        "subject": "Dysideidae"
+      },
+      {
+        "subject": "sponges"
+      },
+      {
+        "subject": "Porifera"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Niche partitioning in two species of tropical nudibranchs at Moorea, French Polynesia",
+    "version": 1
+  }
+}

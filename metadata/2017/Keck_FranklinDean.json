@@ -1,0 +1,82 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Keck",
+          "given_name": "Franklin Dean"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2017/Keck_FranklinDean",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2017",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "photosynthesis"
+      },
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "primary production"
+      },
+      {
+        "subject": "microbes"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "estuary"
+      },
+      {
+        "subject": "microbe, algae",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "AN ANALYSIS OF MARINE PRIMARY PRODUCTION: CHARACTERIZING SPATIAL VARIATION OF BENTHIC AND PLANKTONIC MICROBIAL ACTIVITY ALONG MARGINS OF PAO PAO BAY, MOOREA, FRENCH POLYNESIA",
+    "version": 1
+  }
+}

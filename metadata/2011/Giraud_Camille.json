@@ -1,0 +1,94 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Giraud",
+          "given_name": "Camille"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Giraud_Camille",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Mo'orea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "hermit crab"
+      },
+      {
+        "subject": "Dardanus pedunculatus"
+      },
+      {
+        "subject": "sea anemone"
+      },
+      {
+        "subject": "Calliactis tricolor"
+      },
+      {
+        "subject": "mutualism"
+      },
+      {
+        "subject": "intraspecific competition"
+      },
+      {
+        "subject": "placement"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "INTRASPECIFIC COMPETITION, STEALING AND PLACEMENT OF THE SYMBIOTIC SEA ANEMONE CALLIACTIS TRICOLOR BY THE HERMIT CRAB DARDANUS PEDUNCULATUS",
+    "version": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Satterthwaite",
+          "given_name": "W. H."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1998/Satterthwaite_WH",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1998",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "plants"
+      },
+      {
+        "subject": "Lauraceae"
+      },
+      {
+        "subject": "Cassytha filiformis"
+      },
+      {
+        "subject": "host"
+      },
+      {
+        "subject": "parasite"
+      },
+      {
+        "subject": "Lepturus repens"
+      },
+      {
+        "subject": "Poaceae"
+      },
+      {
+        "subject": "Cenchrus echinatus"
+      },
+      {
+        "subject": "Emilia fosbergii"
+      },
+      {
+        "subject": "Asteraceae"
+      },
+      {
+        "subject": "Passiflora foetida"
+      },
+      {
+        "subject": "Passifloraceae"
+      },
+      {
+        "subject": "Scaevola taccada"
+      },
+      {
+        "subject": "Goodeniaceae"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Distribution and host preference of the parasitic vine Cassytha filiformis (Lauraceae) growing on Motu Tiahura, Moorea, French Polynesia",
+    "version": 1
+  }
+}

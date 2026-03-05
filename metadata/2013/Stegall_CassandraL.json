@@ -1,0 +1,77 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Stegall",
+          "given_name": "Cassandra L."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "This study investigates the role of color morphs of the giant clam, Tridacna maxima, in Moorea, French Polynesia to determine if color polymorphism (morphs) possess a beneficial adaptation. Environmental factors were observed through field surveys to determine if they benefit certain color morphs. No environmental factors were deemed preferential. However, the adaptation of cryptic coloration pertains to color morphs as the clam R, G, and B color values correlate to the substrate R, G, and B color values. Additionally, color was analyzed on multiple levels to compare cryptic ability amongst color morphs. A more adapted color morph was identified and this finding is further paralleled in results on abundance and size distribution throughout the population. Understanding the selective pressures that cause for phenotypic diversity allows insight into conservation and how human actions can either drive or stabilize the gene pools of organisms. ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2013/Stegall_CassandraL",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2013",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "color morph"
+      },
+      {
+        "subject": "Tridanca maxima"
+      },
+      {
+        "subject": "cryptic coloration"
+      },
+      {
+        "subject": "phenotypic diversity"
+      },
+      {
+        "subject": "Invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Understanding drivers of diversity: an investigation of color morphs in the giant clam Tridacna maxima",
+    "version": 1
+  }
+}

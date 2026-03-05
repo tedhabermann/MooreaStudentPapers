@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Grenier",
+          "given_name": "E. M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1994/Grenier_EM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1994",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Rhizophora stylosa"
+      },
+      {
+        "subject": "mangrove"
+      },
+      {
+        "subject": "invasive species"
+      },
+      {
+        "subject": "reproduction"
+      },
+      {
+        "subject": "Rhizophoraceae"
+      },
+      {
+        "subject": "plants"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "salinity"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The reproductive biology of Rhizophora stylosa: an introduced mangrove on Moorea, French Polynesia",
+    "version": 1
+  }
+}

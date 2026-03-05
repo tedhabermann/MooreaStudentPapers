@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Cooley",
+          "given_name": "H. S."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1997/Cooley_HS",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1997",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "stream"
+      },
+      {
+        "subject": "agriculture"
+      },
+      {
+        "subject": "sedimentation"
+      },
+      {
+        "subject": "nitrogen"
+      },
+      {
+        "subject": "phosphorous"
+      },
+      {
+        "subject": "chemistry"
+      },
+      {
+        "subject": "environmental health"
+      },
+      {
+        "subject": "ecosystem",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Comparative study of the effects of land use practices on the Opunohu and Pao Pao Rivers, Moorea, French Polynesia",
+    "version": 1
+  }
+}

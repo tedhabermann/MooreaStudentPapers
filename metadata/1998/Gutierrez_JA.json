@@ -1,0 +1,119 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Gutierrez",
+          "given_name": "J. A."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1998/Gutierrez_JA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1998",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "parasite"
+      },
+      {
+        "subject": "host"
+      },
+      {
+        "subject": "Katsuwonus pelamis"
+      },
+      {
+        "subject": "Sphraena barracuda"
+      },
+      {
+        "subject": "Acanthocybium solandri"
+      },
+      {
+        "subject": "Coryphaena hippurus"
+      },
+      {
+        "subject": "trematode"
+      },
+      {
+        "subject": "fluke"
+      },
+      {
+        "subject": "Hirundella venticosa"
+      },
+      {
+        "subject": "Bathyctyle coryphanae"
+      },
+      {
+        "subject": "Anasakis simplex"
+      },
+      {
+        "subject": "fish"
+      },
+      {
+        "subject": "Osteichthys"
+      },
+      {
+        "subject": "Sphyraenidae"
+      },
+      {
+        "subject": "Coryphaenidae"
+      },
+      {
+        "subject": "Scombridae"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Distribution, prevalence and host-size relationships of gill and stomach parasites in four tropical pelagic fish",
+    "version": 1
+  }
+}

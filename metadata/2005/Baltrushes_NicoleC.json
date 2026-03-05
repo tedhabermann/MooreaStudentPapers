@@ -1,0 +1,101 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Baltrushes",
+          "given_name": "Nicole C."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Humans for millennia have utilized secondary compounds, which are developed by plants in response to herbivory. The plants that have these toxic properties are often important to traditional cultures and are a possible resource for the development of medicines for the rest of the world. Pteridophytes are a diverse and abundant group whose secondary chemistry is still largely unknown. This study investigates the bioactivity of pteridophytes on Moorea, French Polynesia using bioassays for pesticidal potential, cytotoxicity and antifungal activity. Ethnobotanical information about the medicinal uses of the ferns analyzed was also collected and compared to the assay results. Eight of the twelve ferns analyzed were significantly more bioactive than the negative controls in at least one of the bioassays. Ethnobotanical information revealed variability in knowledge and use between healers. The bioactivity of these ferns along with the insect damage results suggests, though further research is needed, that ferns may have evolved under similar herbivorous constraints to angiosperms",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2005/Baltrushes_NicoleC",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2005",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Microsorum grossum"
+      },
+      {
+        "subject": "Microsorum commutatum"
+      },
+      {
+        "subject": "Asplenium australasicum"
+      },
+      {
+        "subject": "Nephrolepis hirsutula"
+      },
+      {
+        "subject": "Davallia solida"
+      },
+      {
+        "subject": "Antrophyum plantagineum"
+      },
+      {
+        "subject": "Angiopteris evecta"
+      },
+      {
+        "subject": "Adiantum trapeziforme"
+      },
+      {
+        "subject": "Bolbitis lonchophora"
+      },
+      {
+        "subject": "Lygodium reticulatum"
+      },
+      {
+        "subject": "Lycopodiella cernua"
+      },
+      {
+        "subject": "Dicranopteri"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The ethnobotany and bioactivity of pteridophytes of Moorea, French Polynesia",
+    "version": 1
+  }
+}

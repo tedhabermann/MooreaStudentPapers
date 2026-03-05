@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Rosenthal",
+          "given_name": "Lisa M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Fungal endophytes have been shown to confer costs and benefits to their plant symbionts and much work has focused on their roles in plant diseases. A generalized consensus regarding their influences on plant diseases, however, has not been achieved. In efforts to control the highly invasive plant Miconia calvescens (Melastomataceae) on the island of Moorea, French Polynesia, the fungal biocontrol Colletotrichum gloeosporoides f. sp. miconiae was released. The bio-control causes more foliar lesions at higher elevations, which has been attributed to differences in abiotic factors. The goal of this study was to investigate the influence of endophyte communities on M. calvescens disease incidence. This study established that the endophyte communities on\nMoorea were distinct between a low and a high elevation site and the low elevation site was more species rich. While disease incidence and endophyte communities differed in respect to elevation, they did not necessarily influence one another. An independent factor, such as the environment, could be responsible. A reciprocal transplant between the low and high site attempted to assert either abiotic or biotic factors as dominant in causing disease. However, the spore treatment in the transplant experiment was not effective and it was not possible to establish one factor as most important. The endophytic community remains to be a possible force in determining disease incidence. ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2013/Rosenthal_LisaM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2013",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Miconia calvescens"
+      },
+      {
+        "subject": "Colletotrichum gloeosporoides f. sp. miconiae"
+      },
+      {
+        "subject": "endo-phyte community"
+      },
+      {
+        "subject": "richness"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "abiotic factors"
+      },
+      {
+        "subject": "biotic factors"
+      },
+      {
+        "subject": "disease incidence"
+      },
+      {
+        "subject": "Plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "An unresolved question: do fungal endophytes influence the disease incidence of Miconia calvescens (Melastomataceae) on Moorea, French Polynesia?",
+    "version": 1
+  }
+}

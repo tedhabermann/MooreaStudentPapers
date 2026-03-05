@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Gelay",
+          "given_name": "J. G."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1998/Gelay_JG",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1998",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "morphology"
+      },
+      {
+        "subject": "color change"
+      },
+      {
+        "subject": "Octopus bocki"
+      },
+      {
+        "subject": "Octopus cyanea"
+      },
+      {
+        "subject": "Octopodidae"
+      },
+      {
+        "subject": "Cephalopoda"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Octopus color phenotypes: A comparison between O. bocki and O. cyanea",
+    "version": 1
+  }
+}

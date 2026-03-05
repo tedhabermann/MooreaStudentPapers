@@ -1,0 +1,104 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Smith",
+          "given_name": "S. L."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1993/Smith_SL",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1993",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "fish"
+      },
+      {
+        "subject": "Osteichthys"
+      },
+      {
+        "subject": "Gobiidae"
+      },
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "predation"
+      },
+      {
+        "subject": "Anguilla mormorata"
+      },
+      {
+        "subject": "Awaous ocellaris"
+      },
+      {
+        "subject": "Sicyopterus pugnans"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Limiting factors in the density and distribution of gobiids in a tropical stream in the Opunohu Valley, Moorea, French Polynesia",
+    "version": 1
+  }
+}

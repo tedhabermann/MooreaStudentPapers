@@ -1,0 +1,91 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Liew",
+          "given_name": "Qi"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Liew_Qi",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "arthropods"
+      },
+      {
+        "subject": "Tangaroa tahitiensis"
+      },
+      {
+        "subject": "Uloboridae"
+      },
+      {
+        "subject": "orb-web"
+      },
+      {
+        "subject": "Mo\u2019orea, French Polynesia"
+      },
+      {
+        "subject": "intraspecific variation"
+      },
+      {
+        "subject": "predation"
+      },
+      {
+        "subject": "foraging strategy"
+      },
+      {
+        "subject": "reproduction"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "EFFECTS OF WEB VARIATION ON PREY CAPTURE IN TANGAROA TAHITIENSIS (ARANEAE:ULOBORIDAE) SPIDERS AND THE INFLUENCE OF SUSBTRATE, SPIDER SIZE, AND MATERNAL STATE ON WEB CHARACTERISTICS",
+    "version": 1
+  }
+}

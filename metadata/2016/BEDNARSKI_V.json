@@ -1,0 +1,64 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "BEDNARSKI",
+          "given_name": "V"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2016/BEDNARSKI_V",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2016",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "invertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Urchin News:\u00a0Diadema savignyi\u2019s\u00a0Herbivorous Role in a Coral-algae Phase Shift in Mo\u2019orea",
+    "version": 1
+  }
+}

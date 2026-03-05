@@ -1,0 +1,97 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Atkinson",
+          "given_name": "L."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2012/Atkinson_L",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2012",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "hermit crab"
+      },
+      {
+        "subject": "Dardanus pedunculatus"
+      },
+      {
+        "subject": "sea anemone"
+      },
+      {
+        "subject": "Calliactis tricolor"
+      },
+      {
+        "subject": "association"
+      },
+      {
+        "subject": "commensalism"
+      },
+      {
+        "subject": "mutualism"
+      },
+      {
+        "subject": "symbiosis"
+      },
+      {
+        "subject": "size preference"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Associations between the hermit crab Dardanus pendunculatus and its commensal sea anemone Calliactis tribolor on Moorea, French Polynesia",
+    "version": 1
+  }
+}

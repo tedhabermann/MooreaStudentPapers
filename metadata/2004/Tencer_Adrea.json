@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Tencer",
+          "given_name": "Adrea"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2004/Tencer_Adrea",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2004",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Wedelia trilobata"
+      },
+      {
+        "subject": "organic mulch"
+      },
+      {
+        "subject": "invasive ornamentals"
+      },
+      {
+        "subject": "non-indigenous weeds"
+      },
+      {
+        "subject": "Cocos nucifera fronds"
+      },
+      {
+        "subject": "Hibiscus tiliaceus chips"
+      },
+      {
+        "subject": "soil tillage"
+      },
+      {
+        "subject": "Botanical Garden"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Coconut fronds and hibiscus chips as organic mulches for control of non-indigenous weed, Wedelia trilobata, Moorea, French Polynesia",
+    "version": 1
+  }
+}

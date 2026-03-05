@@ -1,0 +1,91 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Frossard",
+          "given_name": "Bryan A."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Frossard_BryanA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Diadema"
+      },
+      {
+        "subject": "Diadema savignyi"
+      },
+      {
+        "subject": "sea urchins"
+      },
+      {
+        "subject": "photoreceptors"
+      },
+      {
+        "subject": "spatial vision"
+      },
+      {
+        "subject": "diel rhythms"
+      },
+      {
+        "subject": "nocturnal emergence"
+      },
+      {
+        "subject": "mechanisms of anti-predator defense"
+      },
+      {
+        "subject": "emergence"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "THE ANTI-PREDATOR BEHAVIOR OF THE BLACK LONGSPINE URCHIN (Diadema savignyi): SPATIAL VISION AND THE ROLE OF LIGHT IN EMERGENCE",
+    "version": 1
+  }
+}

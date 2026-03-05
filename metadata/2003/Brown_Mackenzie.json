@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Brown",
+          "given_name": "Mackenzie"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2003/Brown_Mackenzie",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2003",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Pemphis acidula"
+      },
+      {
+        "subject": "Thespesia poplnea"
+      },
+      {
+        "subject": "Scaevola sericae"
+      },
+      {
+        "subject": "Suriana maritima"
+      },
+      {
+        "subject": "coastal vegetation"
+      },
+      {
+        "subject": "Motu"
+      },
+      {
+        "subject": "reef islands"
+      },
+      {
+        "subject": "salt tolearance"
+      },
+      {
+        "subject": "germination"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "A comparative germination of four coastal strand plants on Moorea, French Polynesia: with emphasis on Pemphis acidula",
+    "version": 1
+  }
+}

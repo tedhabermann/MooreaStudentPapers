@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Lin",
+          "given_name": "B. Y."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1995/Lin_BY",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1995",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Insecta"
+      },
+      {
+        "subject": "Arthropoda"
+      },
+      {
+        "subject": "Anurogryllus muticus"
+      },
+      {
+        "subject": "Gryllidae"
+      },
+      {
+        "subject": "Orthoptera"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "reproduction"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Behavior of the male short-tailed cricket, Anurogryllus muticus de Geer, affecting reproductive success in Moorea, French Polynesia",
+    "version": 1
+  }
+}

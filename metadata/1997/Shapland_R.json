@@ -1,0 +1,131 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Shapland",
+          "given_name": "R."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1997/Shapland_R",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1997",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "PaoPao Bay"
+      },
+      {
+        "subject": "Turbinaria ornata"
+      },
+      {
+        "subject": "Sargassum sociale"
+      },
+      {
+        "subject": "Invertebrates"
+      },
+      {
+        "subject": "Nudibranchia"
+      },
+      {
+        "subject": "Mollusca"
+      },
+      {
+        "subject": "copepods"
+      },
+      {
+        "subject": "ostracods"
+      },
+      {
+        "subject": "Sytyliferinaa"
+      },
+      {
+        "subject": "Pusillina"
+      },
+      {
+        "subject": "Rissoina"
+      },
+      {
+        "subject": "Schwartziella"
+      },
+      {
+        "subject": "Itibittium"
+      },
+      {
+        "subject": "Triphora"
+      },
+      {
+        "subject": "Cupraea"
+      },
+      {
+        "subject": "Gastropoda"
+      },
+      {
+        "subject": "snails"
+      },
+      {
+        "subject": "Isopoda"
+      },
+      {
+        "subject": "crabs"
+      },
+      {
+        "subject": "Crustacea"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Fauna associated with floating vegetation rafts in the lagoon of Paopao Bay, Moorea, French Polynesia",
+    "version": 1
+  }
+}

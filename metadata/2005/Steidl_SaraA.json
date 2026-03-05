@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Steidl",
+          "given_name": "Sara A."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Habitat selection in plants has recently been a topic of much discussion because plants environment by evolving in order to not have strict habitat requirements. Habitat selection in plants is defined by dispersal ability, sources available, and community dynamics. Fagraea berteroana is an epiphytic plant that has demonstrated its flexibility in habitat selection by establishing a population at a lower elevation. With the right dispersers, neighbors, substrates and light exposure it has selected an ideal habitat.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2005/Steidl_SaraA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2005",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "epiphyte"
+      },
+      {
+        "subject": "arboreal flora"
+      },
+      {
+        "subject": "Pua"
+      },
+      {
+        "subject": "Fagraea berteroana"
+      },
+      {
+        "subject": "habitat"
+      },
+      {
+        "subject": "habitat specialization"
+      },
+      {
+        "subject": "habitat choice"
+      },
+      {
+        "subject": "gentian"
+      },
+      {
+        "subject": "Marimari"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Biology of Fagraea berteroana: Habitat specialization and conditions for biological success of an anomalous population",
+    "version": 1
+  }
+}

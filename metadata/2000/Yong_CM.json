@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Yong",
+          "given_name": "C. M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2000/Yong_CM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2000",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Gastropoda"
+      },
+      {
+        "subject": "snails"
+      },
+      {
+        "subject": "Cypraeidae"
+      },
+      {
+        "subject": "morphology"
+      },
+      {
+        "subject": "cowry"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "phylogeny"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Comparative morphology of ten species of cowries (Gastropoda: Cypraeidae) with emphasis on the gastrointestinal system",
+    "version": 1
+  }
+}

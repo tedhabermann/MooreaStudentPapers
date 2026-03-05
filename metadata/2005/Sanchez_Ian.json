@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Sanchez",
+          "given_name": "Ian"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Populations often experience bottlenecks, or extended declinations, from which each may succumb to extinction, or possibly return to a sizable, flourishing state. The current condition of the Cordia subcordata population on Moorea, French Polynesia is a diminishing one. Existing on many Pacific islands, C. subcordata mostly grows around coastal environments, where it can easily drop its fruit into the ocean so it can float along and disperse elsewhere. Because this environment describes Moorea perfectly, it seems implausible that C. subcordata would not be able to maintain a thriving population on the island. This study sets out to test growing and dispersal abilities of this native tree in order to gain more of an idea of light amount and soil preference, how much floating in sea water affects potentially germinating fruits, how long fruits can last in flowing sea water, and how well they can distribute themselves around specific island habitats. What is found is that not only does C. subcordata not have a soil preference and its fruits\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5 germination abilities are not explicitly affected by extended periods in flowing sea water, but its sea water dispersal abilities seem good enough to have continued the once large Moorean population. What was found to be significantly preferred was a higher amount of light, but curiously only for a short period of time during the germination process, until which less light seems to have a continually lessening affect on the germinates. Each result has its own possible causal affect for the diminishment, and each is analyzed for possible contribution to the actual reason.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2005/Sanchez_Ian",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2005",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Cordia subcordata"
+      },
+      {
+        "subject": "dispersal"
+      },
+      {
+        "subject": "seawater dispersal"
+      },
+      {
+        "subject": "germination"
+      },
+      {
+        "subject": "light"
+      },
+      {
+        "subject": "population decline"
+      },
+      {
+        "subject": "coastal environment"
+      },
+      {
+        "subject": "soil preference"
+      },
+      {
+        "subject": "habitat"
+      },
+      {
+        "subject": "floating"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Investigation of factors contributing to the decline of a native medicinal plant, Cordia subcordata on Moorea, French Polynesia",
+    "version": 1
+  }
+}

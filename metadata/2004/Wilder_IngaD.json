@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Wilder",
+          "given_name": "Inga D."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2004/Wilder_IngaD",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2004",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Homalodisca coagulata"
+      },
+      {
+        "subject": "glassy-winged sharpshooter"
+      },
+      {
+        "subject": "preference study"
+      },
+      {
+        "subject": "feeding rates"
+      },
+      {
+        "subject": "vector"
+      },
+      {
+        "subject": "Xylella fastidiosa"
+      },
+      {
+        "subject": "Pierce's disease"
+      },
+      {
+        "subject": "invasive insect"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Host plant preference and feeding rate of glassy-winged sharpshooter (Homalodisca coagulata) on Moorea, French Polynesia",
+    "version": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Hart",
+          "given_name": "Courtney E."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Fungia are individual free-living corals and tend to form local aggregations. Although they are most noted for living on coral reef slopes near heavy wave action, they are commonly found within the barrier reefs of Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea, French Polynesia. Initial observations suggest that they tend to live on substrate that shelters them from the sun in the shallower and wave-protected areas parts of the lagoon. Data collected represented substrate type, substrate condition and shelter type of the available substrate and compared it with the substrate preferred by Fungia. The data revealed that Fungia and the three subgenera present in Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea preferred to live on dead coral covered in algae that provided shelter form direct sunlight. Statistical analysis showed that the probability of preferred location of Fungia matching the available distribution is extremely low (P < 0.05). This study has important implications for understanding the life history of coral and their contribution to reef health and future growth.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2005/Hart_CourtneyE",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2005",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Fungia"
+      },
+      {
+        "subject": "Fungiidae"
+      },
+      {
+        "subject": "substrate"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "coral"
+      },
+      {
+        "subject": "life cycle"
+      },
+      {
+        "subject": "Scleractinia"
+      },
+      {
+        "subject": "reef growth"
+      },
+      {
+        "subject": "coral",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Substrate preference of Fungia on protected reefs on Moorea, French Polynesia",
+    "version": 1
+  }
+}

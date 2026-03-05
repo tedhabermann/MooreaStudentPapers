@@ -1,0 +1,98 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Jinnah",
+          "given_name": "S."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1998/Jinnah_S",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1998",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Gastropoda"
+      },
+      {
+        "subject": "Melanoides tuberculata"
+      },
+      {
+        "subject": "Thiara granifera"
+      },
+      {
+        "subject": "taro"
+      },
+      {
+        "subject": "Colocasia esculenta"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "snails"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Distribution and abundance of two gastropods (Melanoides tuberculata and Thiara granifera) in taro (Colocasia esculenta) plantations in Moorea, French Polynesia",
+    "version": 1
+  }
+}

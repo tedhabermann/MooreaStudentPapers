@@ -1,0 +1,83 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Jacobs",
+          "given_name": "Margaret A."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Plant communities vary in relatedness, diversity, abundance, and morphological traits over spatial scales. This holds true along elevational gradients, where different elevations have different environmental filtering, resulting in varying species compositions. This study aims to shed light on the extent to which the aforementioned community characteristics vary along the elevational gradients of Moorea, French Polynesia. Plots were placed over 5 elevations in which species diversity, abundance of individuals within each species, and leaf and plant physiological traits were measured. It was determined that species at the highest elevation exhibited higher relatedness than by chance. In addition, native species were found to increase in abundance with elevation and leaf mass was found to be greater at lower elevations. Species richness and accumulation appear to increase with increasing elevation and the species compositions found at the different elevations are significantly different from one another.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2013/Jacobs_MargaretA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2013",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "community structure"
+      },
+      {
+        "subject": "trait mapping"
+      },
+      {
+        "subject": "community phylogenetics"
+      },
+      {
+        "subject": "species richness"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Woody plant communities along an elevation gradient in Moorea, French Polynesia",
+    "version": 1
+  }
+}

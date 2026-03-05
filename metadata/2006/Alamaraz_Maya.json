@@ -1,0 +1,107 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Alamaraz",
+          "given_name": "Maya"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2006/Alamaraz_Maya",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2006",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "ants"
+      },
+      {
+        "subject": "Hymenoptera"
+      },
+      {
+        "subject": "Formicidae"
+      },
+      {
+        "subject": "scale insects"
+      },
+      {
+        "subject": "mealy bug"
+      },
+      {
+        "subject": "Nipaecoccus nipae"
+      },
+      {
+        "subject": "guava"
+      },
+      {
+        "subject": "Psidium guajava"
+      },
+      {
+        "subject": "insects"
+      },
+      {
+        "subject": "arthropods"
+      },
+      {
+        "subject": "mutualism"
+      },
+      {
+        "subject": "tending"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Interspecific insect interactions and mutualism on the underside of Guava Psidium guajava leaves, Mo'orea, French Polynesia",
+    "version": 1
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Elliot",
+          "given_name": "A."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1999/Elliot_A",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1999",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "birds"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "Halycon venerata youngi"
+      },
+      {
+        "subject": "Ptilinopus purpuratus frater"
+      },
+      {
+        "subject": "agriculture"
+      },
+      {
+        "subject": "Zosterops lateralis"
+      },
+      {
+        "subject": "Acridotheres tristis"
+      },
+      {
+        "subject": "Pycnonotus cafer"
+      },
+      {
+        "subject": "Gallus gallus"
+      },
+      {
+        "subject": "Geopelia striata"
+      },
+      {
+        "subject": "Estrilda astrild"
+      },
+      {
+        "subject": "Emblema temporalis"
+      },
+      {
+        "subject": "Circus approximans"
+      },
+      {
+        "subject": "Columba livia"
+      },
+      {
+        "subject": "Lonchura castaneothorax"
+      },
+      {
+        "subject": "Ramphocelus dimidiatus"
+      },
+      {
+        "subject": "bird",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Distribution, abundance, and habitat relationships of terrestrial land birds of Moorea, French Polynesia",
+    "version": 1
+  }
+}

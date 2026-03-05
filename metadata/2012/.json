@@ -1,0 +1,75 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [],
+    "description": "As secondary producers, zooplankton species are crucial as a vehicle for energy transfer in marine ecosystems worldwide yet few studies have observed the zooplankton community in tropical island estuaries. This study aims to understand the distribution of the zooplankton community in two of the largest estuaries (Opunohu and Cook\u2019s Bays) in the volcanic tropical island of Moorea, French Polynesia. The results show that a few taxonomic groups, especially copepod, dominate the zooplankton composition. Moreover, the zooplankton community and diversity is highly variable at each bay and between bays. In the laboratory, copepod salinity response was examined. Copepods were placed at different salinity treatments for 16 hrs and dead copepods were counted. The salinity experiments show greater mortality of copepods at the extreme ends of salinity concentration, 40ppt and 0 ppt, suggesting that salinity is a major component influencing the abundance in these systems. Monitoring fluctuations in the zooplankton abundances will help understand changes in the marine food web as the result of climate change.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2012/",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2012",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "abundance"
+      },
+      {
+        "subject": "composition"
+      },
+      {
+        "subject": "plankton"
+      },
+      {
+        "subject": "veligers"
+      },
+      {
+        "subject": "tropical estuaries"
+      },
+      {
+        "subject": "Simpson\u2019s Diversity Index, copepods"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "ZOOPLANKTON ASSEMBLAGE IN OPUNOHU AND COOK\u2019S BAYS (MOOREA, FRENCH POLYNESIA) AND THE RESPONSE OF COPEPODS TO CHANGES IN SALINITY",
+    "version": 1
+  }
+}

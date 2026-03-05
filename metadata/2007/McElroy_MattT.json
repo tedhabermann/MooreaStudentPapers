@@ -1,0 +1,98 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "McElroy",
+          "given_name": "Matt T."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2007/McElroy_MattT",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2007",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "lizards"
+      },
+      {
+        "subject": "skinks"
+      },
+      {
+        "subject": "microclimate"
+      },
+      {
+        "subject": "microenvironment"
+      },
+      {
+        "subject": "resource partitioning"
+      },
+      {
+        "subject": "thermoregulation"
+      },
+      {
+        "subject": "thermal preference"
+      },
+      {
+        "subject": "thermal specialist"
+      },
+      {
+        "subject": "thermal generalis"
+      },
+      {
+        "subject": "substrate selection"
+      },
+      {
+        "subject": "Squamata"
+      },
+      {
+        "subject": "vertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Thermal Ecoloty and Havitat Selection of Two Cryptic Skinks (Scincidae: Emioa cyanura, E. impar) on Morrea, French Polynesia",
+    "version": 1
+  }
+}

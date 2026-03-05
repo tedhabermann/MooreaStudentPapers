@@ -1,0 +1,85 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Guan",
+          "given_name": "L."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2013/Guan_L",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2013",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "fiddler crabs"
+      },
+      {
+        "subject": "Uca"
+      },
+      {
+        "subject": "parasites"
+      },
+      {
+        "subject": "trophic transmission"
+      },
+      {
+        "subject": "predation"
+      },
+      {
+        "subject": "color"
+      },
+      {
+        "subject": "sexual dimorphism"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Parasite Abundance and Color-Biased Predation of Fiddler Crabs, Uca Crassipes, in Moorea, French Polynesia ",
+    "version": 1
+  }
+}

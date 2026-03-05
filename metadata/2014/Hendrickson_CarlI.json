@@ -1,0 +1,79 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Hendrickson",
+          "given_name": "Carl I."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2014/Hendrickson_CarlI",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2014",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "coral"
+      },
+      {
+        "subject": "richness"
+      },
+      {
+        "subject": "abundance"
+      },
+      {
+        "subject": "island biogeography"
+      },
+      {
+        "subject": "Moorea, French Polynesia"
+      },
+      {
+        "subject": "invertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The effect of island biogeography on isolated coral head richness and abundance on Moorea, French Polynesia",
+    "version": 1
+  }
+}

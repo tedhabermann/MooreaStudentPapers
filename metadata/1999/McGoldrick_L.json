@@ -1,0 +1,104 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "McGoldrick",
+          "given_name": "L."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1999/McGoldrick_L",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1999",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "lizard"
+      },
+      {
+        "subject": "gecko"
+      },
+      {
+        "subject": "Gekkonidae"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "territoriality"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "aggression"
+      },
+      {
+        "subject": "Gehyra mutilata"
+      },
+      {
+        "subject": "Lepidodactylus lugubris"
+      },
+      {
+        "subject": "Gehyra oceanica"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "vertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Aggression, feeding, territoriality and body size effects in geckos (Gekkonidae) of Moorea, French Polynesia",
+    "version": 1
+  }
+}

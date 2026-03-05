@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Skinner",
+          "given_name": "John Carey"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2003/Skinner_JohnCarey",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2003",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "ironwood tree"
+      },
+      {
+        "subject": "Casuarina equisetifolia"
+      },
+      {
+        "subject": "Carribean pine"
+      },
+      {
+        "subject": "Pinus caribaea"
+      },
+      {
+        "subject": "Wedelia trilobata"
+      },
+      {
+        "subject": "Dicranopteris linearis"
+      },
+      {
+        "subject": "fern"
+      },
+      {
+        "subject": "insect density"
+      },
+      {
+        "subject": "insect diversity"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Arthropod density and diversity of Moorean tree groves",
+    "version": 1
+  }
+}

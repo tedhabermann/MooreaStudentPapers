@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Wininger",
+          "given_name": "Kerry"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2007/Wininger_Kerry",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2007",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "fouling community"
+      },
+      {
+        "subject": "hull fouling"
+      },
+      {
+        "subject": "richness"
+      },
+      {
+        "subject": "succession"
+      },
+      {
+        "subject": "disturbance"
+      },
+      {
+        "subject": "nonindigenous species"
+      },
+      {
+        "subject": "introduced species"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "ferry boats"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Fair is Foul and Foul is Fair: Effects of Substrate Type and Age on the Composition of Fouling Communities in Moorea, French Polynesia",
+    "version": 1
+  }
+}

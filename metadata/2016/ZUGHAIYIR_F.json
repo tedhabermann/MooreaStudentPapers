@@ -1,0 +1,64 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "ZUGHAIYIR",
+          "given_name": "F."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2016/ZUGHAIYIR_F",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2016",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "vertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Best Beachfront Real Estate: Unveiling Microhabitat Segregation of Sympatric Species of Nocturnal Geckos Found on the Island of Moorea, French Polynesia.\u00a0\u00a0",
+    "version": 1
+  }
+}

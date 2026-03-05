@@ -1,0 +1,88 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Bates",
+          "given_name": "Jennifer"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Bates_Jennifer",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "invasive species"
+      },
+      {
+        "subject": "partitioning"
+      },
+      {
+        "subject": "foraging behavior"
+      },
+      {
+        "subject": "Acridotheres tristis"
+      },
+      {
+        "subject": "Pycnonotus cafer"
+      },
+      {
+        "subject": "Mo\u2019orea, French Polynesia"
+      },
+      {
+        "subject": "Passeriformes"
+      },
+      {
+        "subject": "species interactions"
+      },
+      {
+        "subject": "bird",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "FORAGING BEHAVIOR PARTITIONING AND INTERACTIONS OF TWO ISLAND INVASIVE BIRDS: THE COMMON MYNA (ACRIDOTHERES TRISTIS) AND THE RED-VENTED BULBUL (PYCNONOTUS CAFER)",
+    "version": 1
+  }
+}

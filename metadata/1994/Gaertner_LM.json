@@ -1,0 +1,209 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Gaertner",
+          "given_name": "L. M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1994/Gaertner_LM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1994",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "ethnobotany"
+      },
+      {
+        "subject": "plants"
+      },
+      {
+        "subject": "healers"
+      },
+      {
+        "subject": "Santalum"
+      },
+      {
+        "subject": "Eugenia"
+      },
+      {
+        "subject": "Casuarina equisetifolia"
+      },
+      {
+        "subject": "Citrus"
+      },
+      {
+        "subject": "Calophyllum"
+      },
+      {
+        "subject": "Hibiscus rosa-sinensis"
+      },
+      {
+        "subject": "Cordyline"
+      },
+      {
+        "subject": "Nicotiana"
+      },
+      {
+        "subject": "Premma"
+      },
+      {
+        "subject": "Annona"
+      },
+      {
+        "subject": "Cocos nucifera"
+      },
+      {
+        "subject": "Barringtonia"
+      },
+      {
+        "subject": "Manihot"
+      },
+      {
+        "subject": "Ficus"
+      },
+      {
+        "subject": "Brachiaria"
+      },
+      {
+        "subject": "Musa"
+      },
+      {
+        "subject": "Phymatosorus"
+      },
+      {
+        "subject": "Ocimum"
+      },
+      {
+        "subject": "Thespesia populnea"
+      },
+      {
+        "subject": "Phyllanthus"
+      },
+      {
+        "subject": "Morinda citrifolia"
+      },
+      {
+        "subject": "Capsicum"
+      },
+      {
+        "subject": "Ananus"
+      },
+      {
+        "subject": "pineapple"
+      },
+      {
+        "subject": "Oxalis"
+      },
+      {
+        "subject": "Rorippa"
+      },
+      {
+        "subject": "Tacca"
+      },
+      {
+        "subject": "Cenchrus echinatus"
+      },
+      {
+        "subject": "Hibiscus tiliaceus"
+      },
+      {
+        "subject": "Safran"
+      },
+      {
+        "subject": "Tournefortia"
+      },
+      {
+        "subject": "Polygonum"
+      },
+      {
+        "subject": "Aleurites moluccana"
+      },
+      {
+        "subject": "Ophioglossum"
+      },
+      {
+        "subject": "Gardenia"
+      },
+      {
+        "subject": "Davallia"
+      },
+      {
+        "subject": "Saccarum"
+      },
+      {
+        "subject": "Cordia subcordata"
+      },
+      {
+        "subject": "Psidium"
+      },
+      {
+        "subject": "Artocarpus altilis"
+      },
+      {
+        "subject": "Adenostemma"
+      },
+      {
+        "subject": "Mangifera indica"
+      },
+      {
+        "subject": "Spondias"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Traditional medicine in Moorea, French Polynesia: a study of its uses, the practitioners, and their plants",
+    "version": 1
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Fitch",
+          "given_name": "Nina B."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2007/Fitch_NinaB",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2007",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Halimeda"
+      },
+      {
+        "subject": "calcium carbonate"
+      },
+      {
+        "subject": "fringing reefs"
+      },
+      {
+        "subject": "barrier reefs"
+      },
+      {
+        "subject": "algal ridge"
+      },
+      {
+        "subject": "macroalgae"
+      },
+      {
+        "subject": "lagoon substrate"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "algae",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Distribution and Role of Halimeda (Bropsidales/Halimedaceae) in Carbonate Production on Reefs in Moorea, French Polynesia",
+    "version": 1
+  }
+}

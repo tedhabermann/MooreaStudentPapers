@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Song",
+          "given_name": "Daniel S."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2006/Song_DanielS",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2006",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "density"
+      },
+      {
+        "subject": "coral species"
+      },
+      {
+        "subject": "suspension feeding"
+      },
+      {
+        "subject": "phenotype"
+      },
+      {
+        "subject": "branchial crown"
+      },
+      {
+        "subject": "Polychaeta"
+      },
+      {
+        "subject": "Spirobranchus giganteus"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Christmas colors: colormorph distribution of Spirobranchus giganteus Pallas 1766 on Moorea, French Polynesia",
+    "version": 1
+  }
+}

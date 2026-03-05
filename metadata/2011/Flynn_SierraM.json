@@ -1,0 +1,82 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Flynn",
+          "given_name": "Sierra M."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Flynn_SierraM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "Padina boryana"
+      },
+      {
+        "subject": "epiphytes"
+      },
+      {
+        "subject": "phenotypic plasticity"
+      },
+      {
+        "subject": "host-specificity"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "algae",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "FLOWING WITH THE TIDE: EPIPHYTIC HOST-SPECIFICITY AND PHENOTYPIC PLASTICITY OF THE BROWN ALGA PADINA BORYANA",
+    "version": 1
+  }
+}

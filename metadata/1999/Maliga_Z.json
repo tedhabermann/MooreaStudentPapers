@@ -1,0 +1,176 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Maliga",
+          "given_name": "Z."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1999/Maliga_Z",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1999",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "fish"
+      },
+      {
+        "subject": "Osteichthys"
+      },
+      {
+        "subject": "ecology"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "diversity"
+      },
+      {
+        "subject": "Abudefduf"
+      },
+      {
+        "subject": "Pomacentridae"
+      },
+      {
+        "subject": "Acanthurus"
+      },
+      {
+        "subject": "Aulostomidae"
+      },
+      {
+        "subject": "Bothus"
+      },
+      {
+        "subject": "Centropyge"
+      },
+      {
+        "subject": "Canthigaster"
+      },
+      {
+        "subject": "Carchahinus"
+      },
+      {
+        "subject": "Chanos"
+      },
+      {
+        "subject": "Chaetodon"
+      },
+      {
+        "subject": "Chaetodontidae"
+      },
+      {
+        "subject": "Chelon"
+      },
+      {
+        "subject": "Chlorurus"
+      },
+      {
+        "subject": "Ctenochaetus"
+      },
+      {
+        "subject": "Chromis"
+      },
+      {
+        "subject": "Dascyllus aruanus"
+      },
+      {
+        "subject": "Diodon"
+      },
+      {
+        "subject": "Dunckerocampus"
+      },
+      {
+        "subject": "Epinephelus"
+      },
+      {
+        "subject": "Epibulus"
+      },
+      {
+        "subject": "Gomphosus"
+      },
+      {
+        "subject": "Heniochus"
+      },
+      {
+        "subject": "Labroides dimidiatus"
+      },
+      {
+        "subject": "Monotaxis"
+      },
+      {
+        "subject": "Mulloidchthys"
+      },
+      {
+        "subject": "Ostracion"
+      },
+      {
+        "subject": "Parupeneus"
+      },
+      {
+        "subject": "Thalassoma hardwicke"
+      },
+      {
+        "subject": "Zanclus"
+      },
+      {
+        "subject": "Zebrasoma"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The ecology of coral reef fish in the fringing reef of Haapiti, Moorea, French Polynesia",
+    "version": 1
+  }
+}

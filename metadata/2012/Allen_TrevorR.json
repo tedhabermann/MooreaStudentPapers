@@ -1,0 +1,94 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Allen",
+          "given_name": "Trevor R."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2012/Allen_TrevorR",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2012",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "climate change"
+      },
+      {
+        "subject": "ocean acidification"
+      },
+      {
+        "subject": "sea surface warming"
+      },
+      {
+        "subject": "marine gastropod"
+      },
+      {
+        "subject": "embryonic development"
+      },
+      {
+        "subject": "Stylocheilus"
+      },
+      {
+        "subject": "Anaspidea"
+      },
+      {
+        "subject": "Aplysiomorpha"
+      },
+      {
+        "subject": "Mo'orea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "invertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The effects of ocean acidification and sea surface warming on the embryonic development of the opisthobranch gastropod Stylocheilus striatus",
+    "version": 1
+  }
+}

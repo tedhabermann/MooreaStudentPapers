@@ -1,0 +1,100 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Lu",
+          "given_name": "Judy"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2014/Lu_Judy",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2014",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "fouling assemblages"
+      },
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "macroinvertebrate"
+      },
+      {
+        "subject": "coral"
+      },
+      {
+        "subject": "natural substrate"
+      },
+      {
+        "subject": "artificial substrate"
+      },
+      {
+        "subject": "basalt"
+      },
+      {
+        "subject": "conglomerate"
+      },
+      {
+        "subject": "concrete"
+      },
+      {
+        "subject": "high-density polyethylene plastic"
+      },
+      {
+        "subject": "species richness"
+      },
+      {
+        "subject": "species abundance, Moorea, French Polynesia"
+      },
+      {
+        "subject": "algae, invertebrates",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Do urban structures always negatively impact natural habitats? The effects of artificial substrates on the species richness of fouling assemblages on Moorea, French Polynesia",
+    "version": 1
+  }
+}

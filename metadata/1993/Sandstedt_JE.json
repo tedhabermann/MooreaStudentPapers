@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Sandstedt",
+          "given_name": "J. E."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1993/Sandstedt_JE",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1993",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Fungiidae"
+      },
+      {
+        "subject": "Fungia"
+      },
+      {
+        "subject": "sedimentation"
+      },
+      {
+        "subject": "corals"
+      },
+      {
+        "subject": "Cnidaria"
+      },
+      {
+        "subject": "bleaching"
+      },
+      {
+        "subject": "coral",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The effects of sedimentation on the fungiid coral, Fungia scutaria",
+    "version": 1
+  }
+}

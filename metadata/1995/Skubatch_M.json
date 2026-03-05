@@ -1,0 +1,104 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Skubatch",
+          "given_name": "M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1995/Skubatch_M",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1995",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "fish"
+      },
+      {
+        "subject": "Osteichthys"
+      },
+      {
+        "subject": "Dascyllus aruanus"
+      },
+      {
+        "subject": "Pomacentridae"
+      },
+      {
+        "subject": "corals"
+      },
+      {
+        "subject": "Cnidaria"
+      },
+      {
+        "subject": "Acropora formosa"
+      },
+      {
+        "subject": "Acroporidae"
+      },
+      {
+        "subject": "Pocillopora damicornis"
+      },
+      {
+        "subject": "Pocilloporidae"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Habitat distribution and population structure of territorial damselfish, Dascyllus auanus in Teavaro lagoon, Moorea, French Polynesia",
+    "version": 1
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Muchow",
+          "given_name": "R. S."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2000/Muchow_RS",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2000",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "corals"
+      },
+      {
+        "subject": "Cnidaria"
+      },
+      {
+        "subject": "Poritidae"
+      },
+      {
+        "subject": "Pocilloporidae"
+      },
+      {
+        "subject": "Acroporidae"
+      },
+      {
+        "subject": "diversity"
+      },
+      {
+        "subject": "Porites"
+      },
+      {
+        "subject": "Pocillopora"
+      },
+      {
+        "subject": "Acropora"
+      },
+      {
+        "subject": "environmental health"
+      },
+      {
+        "subject": "fossil"
+      },
+      {
+        "subject": "coral",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Temporal changes in coral composition in Moorea during the Holocene",
+    "version": 1
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Mayali",
+          "given_name": "X."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1996/Mayali_X",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1996",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "zonation"
+      },
+      {
+        "subject": "Acanthophora"
+      },
+      {
+        "subject": "Rhodomelaceae"
+      },
+      {
+        "subject": "Amphiroa"
+      },
+      {
+        "subject": "Corallinaceae"
+      },
+      {
+        "subject": "Avrainvillea"
+      },
+      {
+        "subject": "Udonteaceae"
+      },
+      {
+        "subject": "Boodlea"
+      },
+      {
+        "subject": "Siphonocladaceae"
+      },
+      {
+        "subject": "Caulerpa"
+      },
+      {
+        "subject": "Caulerpaceae"
+      },
+      {
+        "subject": "Ceramium"
+      },
+      {
+        "subject": "Ceramiaceae"
+      },
+      {
+        "subject": "Cheilosporum"
+      },
+      {
+        "subject": "Chnoospora"
+      },
+      {
+        "subject": "Chnoosporaceae"
+      },
+      {
+        "subject": "Codium"
+      },
+      {
+        "subject": "Codiaceae"
+      },
+      {
+        "subject": "Colpomenia"
+      },
+      {
+        "subject": "Scytosiphonaceae"
+      },
+      {
+        "subject": "Dictyota"
+      },
+      {
+        "subject": "Dictotaceae"
+      },
+      {
+        "subject": "Enteromorpha"
+      },
+      {
+        "subject": "Ulvaceae"
+      },
+      {
+        "subject": "Grateloupia"
+      },
+      {
+        "subject": "Cryptonemiaceae"
+      },
+      {
+        "subject": "Halimeda"
+      },
+      {
+        "subject": "Halimedaceae"
+      },
+      {
+        "subject": "Hydroclathrus"
+      },
+      {
+        "subject": "Hypnea"
+      },
+      {
+        "subject": "Hypneaceae"
+      },
+      {
+        "subject": "Padina"
+      },
+      {
+        "subject": "Rosenvingia"
+      },
+      {
+        "subject": "Sargassum"
+      },
+      {
+        "subject": "Sargassaceae"
+      },
+      {
+        "subject": "Spyridia"
+      },
+      {
+        "subject": "Ulva"
+      },
+      {
+        "subject": "algae",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Zonation of lagoon algae in Moorea, French Polynesia",
+    "version": 1
+  }
+}

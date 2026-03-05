@@ -1,0 +1,82 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Everett",
+          "given_name": "Christopher J."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2014/Everett_ChristopherJ",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2014",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "gastropods"
+      },
+      {
+        "subject": "Strombus gibberulus"
+      },
+      {
+        "subject": "phylogenetics"
+      },
+      {
+        "subject": "variation"
+      },
+      {
+        "subject": "trait plasticity"
+      },
+      {
+        "subject": "Moorea, French Polynesia"
+      },
+      {
+        "subject": "invertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Shell morphometrics of marine gastropods: phylogenetics, variation, and plasticity",
+    "version": 1
+  }
+}

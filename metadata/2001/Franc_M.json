@@ -1,0 +1,98 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Franc",
+          "given_name": "M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Hibiscus tiliaceus (Malvaceae) is a common tree throughout the Pacific Islands. Its origin of arrrival to the islands as either a native plant or an introduced species is debated. Theis study primarily focuses on reproductive and seed biology to suggest how H. tiliaceus has been able to disperse by hydrochory and exploit numerous habitats across a wide range of altitude on the Pacific Islands, more specifically the island of Moorea. On Moorea, studies were conducted up to 400 meters. Bagging experiments were performed to suggest the modes of pollination for this tree, which was determined to be a generalist through these experiments and visual observations. H. tiliaceus receives pollen from a variety of sources. A black bee and two species of Nitidulidae beetles were found to transport pollen. Along with the insects found, it is suggesed that wind is capable of disrupting pollen on to the pistil of the same flower. Statistically significant seed set and bouyancy data suggest that there is an ecotypic variation among elevational populations of H. tiliaceus. More specifically, there was a significant difference in the coastal sites compared to those between 100-400m elevation. Higher elevation sites showed no significant difference when compared to one another. Overall, coastal trees were found to have fruits with a higher seed set and the seeds were more bouyant than those collected in the higher elevation sties. There are a number of possibilities that may explain the variation observed. These may include genetic differences, pollinator presence/absence, timing of pollination, pollen competition, and pollen tube growth rates. Bouyancy experiments showed that seeds from all elevational site are able to float in salt water. Despite the variations observed, and the possibly increased hydrochory ability of coastal trees, it is suggested that H. tiliaceus varieties observed from the coast to the mountain on Moorea may be able to disperse by water and establish on new coastal shores.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2001/Franc_M",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2001",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Hibiscus tiliaceus"
+      },
+      {
+        "subject": "Malvaceae"
+      },
+      {
+        "subject": "plants"
+      },
+      {
+        "subject": "reproduction"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "pollination"
+      },
+      {
+        "subject": "Insecta"
+      },
+      {
+        "subject": "Coleoptera"
+      },
+      {
+        "subject": "Nitidulidae"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Reproduction and distribution of Hibiscus tiliaceus from the coast to the mountains on Moorea, French Polynesia",
+    "version": 1
+  }
+}

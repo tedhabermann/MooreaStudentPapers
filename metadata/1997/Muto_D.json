@@ -1,0 +1,188 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Muto",
+          "given_name": "D."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1997/Muto_D",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1997",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "PaoPao Bay"
+      },
+      {
+        "subject": "corals"
+      },
+      {
+        "subject": "Cnidaria"
+      },
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "Echinodermata"
+      },
+      {
+        "subject": "Holothuria"
+      },
+      {
+        "subject": "sea cucumbers"
+      },
+      {
+        "subject": "diversity"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "Porites"
+      },
+      {
+        "subject": "Poritidae"
+      },
+      {
+        "subject": "Psammocora"
+      },
+      {
+        "subject": "Pocillopora"
+      },
+      {
+        "subject": "Pocilloporidae"
+      },
+      {
+        "subject": "Montipora"
+      },
+      {
+        "subject": "Acropora"
+      },
+      {
+        "subject": "Acroporidae"
+      },
+      {
+        "subject": "Montastrea"
+      },
+      {
+        "subject": "Faviidae"
+      },
+      {
+        "subject": "Pavona"
+      },
+      {
+        "subject": "Agariciidae"
+      },
+      {
+        "subject": "Leptastrea"
+      },
+      {
+        "subject": "Fungia"
+      },
+      {
+        "subject": "Fungiidae"
+      },
+      {
+        "subject": "Halimeda"
+      },
+      {
+        "subject": "Halimedaceae"
+      },
+      {
+        "subject": "Dictyota"
+      },
+      {
+        "subject": "Dictotaceae"
+      },
+      {
+        "subject": "Galaxaura"
+      },
+      {
+        "subject": "Galaxauraceae"
+      },
+      {
+        "subject": "Porolithon"
+      },
+      {
+        "subject": "Padina"
+      },
+      {
+        "subject": "Turbinaria ornata"
+      },
+      {
+        "subject": "Sargassaceae"
+      },
+      {
+        "subject": "Ventricaria"
+      },
+      {
+        "subject": "Valoniaceae"
+      },
+      {
+        "subject": "Diadema"
+      },
+      {
+        "subject": "Echinothrix"
+      },
+      {
+        "subject": "Echinometra"
+      },
+      {
+        "subject": "coral",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Causes of spatial variation of a fringing reef in Paopao Bay, Moorea, French Polynesia",
+    "version": 1
+  }
+}

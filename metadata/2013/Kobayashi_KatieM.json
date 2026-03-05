@@ -1,0 +1,80 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Kobayashi",
+          "given_name": "Katie M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Amphidromy is a distinct life history, in which organisms live and spawn in fresh water, their larvae float downstream to salt water where they remain for some time, and juveniles migrate back upstream to complete their feeding and growing in fresh water.  On oceanic islands, this life history serves as a strategy for settlement of new islands, recolonization of freshwater habitats after major disturbances, and downstream predator evasion.  Many members of the family gobiidae exhibit amphidromous life histories on tropical islands, and have evolved the ability to climb waterfalls in order to reach upstream habitats.  Though the importance of climbing ability in juvenile gobies has been well established, climbing ability in adults is often overlooked.  Retaining climbing ability could be advantageous for adult gobiids, as they are subjected to many of the same risks as juveniles.  On the island of Moorea in French Polynesia, amphidromous gobiids make up a large part of the freshwater vertebrate fauna.  I hypothesized that the climbing ability of these fishes would be negatively impacted by increases in geophysical pressures such as flowrate and gradient, as well as the presence of man-made stream barriers.  In this study, Sicyopterus spp. and Stiphodon elegans adults were challenged to climb under simulated waterfall conditions, in order to define the effects of gradient and flow rate on their climbing ability.  The two species were also included in a survey with relation to man-made barriers on the island.  While increases in waterfall angle negatively affected the climbing success of Stiphodon elegans, Sicyopterus spp. exhibited an increase in completion time, but showed no decrease in climbing success.  When subjected to multiple flow rates, Stiphodon elegans was more successful and slower at lower flow rates.  Surveys suggested that the construction of barriers plays a key roll in migration success among Sicyopterus species.  Understanding limits to the climbing ability of amphidromous gobiids is important to both the life history and conservation of fishes on Moorea, as well as faunas of oceanic islands across the globe. ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2013/Kobayashi_KatieM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2013",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "amphidromy"
+      },
+      {
+        "subject": "climbing"
+      },
+      {
+        "subject": "Sicyopterus"
+      },
+      {
+        "subject": "Stiphodon"
+      },
+      {
+        "subject": "Moorea, French Polynesia"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The effects of barriers on the clibing ability of two amphidromous gobiids (sicyopterus spp. and stiphodon elegans) on Moorea, French Polynesia",
+    "version": 1
+  }
+}

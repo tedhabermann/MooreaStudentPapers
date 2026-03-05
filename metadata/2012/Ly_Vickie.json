@@ -1,0 +1,98 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Ly",
+          "given_name": "Vickie"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Natural and anthropogenic disturbances are changing coral reef systems at local and global scales. In Mo\u2019orea, French Polynesia, it is unsure whether a Pocilloporid-and Poritid-dominant reef represents either a transitional, recovering community or a new, stable community (Pratchett 2010). Understanding the species-specific associations between coral-symbionts and their coral hosts will provide a more precise look at how symbionts contribute to their relationship. To better understand this mutualism, this study combined field surveys with phylogenetic analyses to examine the species-specific association between Trapezia crabs and their Pocillopora coral hosts and ask more broadly if there is an association between environmental variables and a morphological phylogeny of Trapezia. There was a significant association between certain species of Trapezia and Pocillopora (Likelihood ratio, x2=84.49, df=16, p=<0.0001*), whereT. rufopunctata was found most frequently withP. edyouxi (80.75%) andT. serenei onP. meandrina (63.4%) and P. verrucosa (37.50%). Discriminant analyses support that differences between crab communities are largely attributed to the morphological features (coral size and branching depth) of coral hosts. Field observations paired with a morphological phylogeny support a trend where similar sized corals were found to be associated with more closely related crab species. Understanding the degree of species-specific associations allows us to better grasp how coral communities and their symbionts will change with natural and anthropogenic episodic changes",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2012/Ly_Vickie",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2012",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Trapezia"
+      },
+      {
+        "subject": "crabs"
+      },
+      {
+        "subject": "Pocillopora"
+      },
+      {
+        "subject": "coral morphology"
+      },
+      {
+        "subject": "mutualism"
+      },
+      {
+        "subject": "back reef"
+      },
+      {
+        "subject": "community structure"
+      },
+      {
+        "subject": "cyclone"
+      },
+      {
+        "subject": "Acanthastar planci"
+      },
+      {
+        "subject": "natural and anthropogenic disturbance"
+      },
+      {
+        "subject": "habitat avilability"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "THE ASSOCIATION AND DIVERSIFICATION OF TRAPEZIA CRABS WITH THEIR OBLIGATE POCILLOPORA CORAL HOSTS IN MO\u2019OREA, FRENCH POLYNESIA",
+    "version": 1
+  }
+}

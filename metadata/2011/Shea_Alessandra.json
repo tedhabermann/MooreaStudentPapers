@@ -1,0 +1,79 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Shea",
+          "given_name": "Alessandra"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Shea_Alessandra",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "coral reef health"
+      },
+      {
+        "subject": "Porites"
+      },
+      {
+        "subject": "Porites trematodiasis"
+      },
+      {
+        "subject": "Mo\u2019orea, Cook\u2019s Bay"
+      },
+      {
+        "subject": "Opunohu Bay"
+      },
+      {
+        "subject": "coral",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "CORAL HEALTH AND DISEASE: A COMPARISON OF COOK\u2019S AND OPUNOHU BAYS IN MOOREA, FRENCH POLYNESIA ",
+    "version": 1
+  }
+}

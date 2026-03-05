@@ -1,0 +1,83 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Weiss",
+          "given_name": "Amelia"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "This study investigates the biomechanics, behavior, and distribution of urchin species in Mo\u2019orea, French Polynesia to understand how they withstand hydrodynamic forces. Field surveys examined the flow distribution of four species: E. mathaei, Tripneustes gratilla, Diadema savignyi  and Echinotrix calamaris. Flow tests were conducted on two Echinometra mathaei  subspecies to measure spine angle under no flow and heavy flow conditions. Short spine urchin species were found in significantly higher flows than were long spine urchin species. Experimental findings revealed that E. mathaei type B temporarily adopts a more streamlined shape in response to increasing flow velocity, while E. mathaei  type A does not. Understanding the streamlining behavior and other strategies for surviving hydrodynamic conditions is necessary in order to examine these organisms\u2019 role in their environment.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2012/Weiss_Amelia",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2012",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "urchin"
+      },
+      {
+        "subject": "echinodermata"
+      },
+      {
+        "subject": "biomechanics"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "species distribution"
+      },
+      {
+        "subject": "water flow conditionss"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Sea Urching Biomechanics: Morphological and behavioral adaptations to heavy flow conditions in Mo'orea, French Polynesia",
+    "version": 1
+  }
+}

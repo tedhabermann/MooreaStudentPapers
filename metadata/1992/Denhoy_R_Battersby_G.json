@@ -1,0 +1,96 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Denhoy",
+          "given_name": "R."
+        },
+        "type": "personal"
+      },
+      {
+        "person_or_org": {
+          "family_name": "Battersby",
+          "given_name": "G."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1992/Denhoy_R_Battersby_G",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1992",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "crabs"
+      },
+      {
+        "subject": "Cardisoma carnifex"
+      },
+      {
+        "subject": "Geocarcinidae"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "Crustacea"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Factors influencing the density and distribution of Cardisoma carnifex in established areas, including an assessment of burrow fidelity and a temporal survey of the road kill of Cardisoma carnifex on the island of Moorea, French Polynesia",
+    "version": 1
+  }
+}

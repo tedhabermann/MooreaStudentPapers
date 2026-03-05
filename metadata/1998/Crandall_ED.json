@@ -1,0 +1,104 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Crandall",
+          "given_name": "E. D."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1998/Crandall_ED",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1998",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "snails"
+      },
+      {
+        "subject": "amphidromous"
+      },
+      {
+        "subject": "Neritidae"
+      },
+      {
+        "subject": "Gastropoda"
+      },
+      {
+        "subject": "Neritina canalis"
+      },
+      {
+        "subject": "Neritina turrita"
+      },
+      {
+        "subject": "Clithon spinosa"
+      },
+      {
+        "subject": "Septaria porcellana"
+      },
+      {
+        "subject": "biology"
+      },
+      {
+        "subject": "physiology"
+      },
+      {
+        "subject": "Mollusca"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Early life history aspects of amphidromous neritid snails in Moorea, French Polynesia",
+    "version": 1
+  }
+}

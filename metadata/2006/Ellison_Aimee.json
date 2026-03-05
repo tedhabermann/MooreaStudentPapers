@@ -1,0 +1,86 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Ellison",
+          "given_name": "Aimee"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2006/Ellison_Aimee",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2006",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "larger foraminifera"
+      },
+      {
+        "subject": "Peneroplis pertusus"
+      },
+      {
+        "subject": "bleaching"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "Mo'orea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "habitat"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Habitat and bleaching in the foraminiferan Peneroplis pertusus",
+    "version": 1
+  }
+}

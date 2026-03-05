@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Graff",
+          "given_name": "J. R."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1992/Graff_JR",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1992",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "lizard"
+      },
+      {
+        "subject": "gecko"
+      },
+      {
+        "subject": "Gekkonidae"
+      },
+      {
+        "subject": "Gehyra oceanica"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "aggression"
+      },
+      {
+        "subject": "vertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Ecology and thermal correlations of the nocturnal activity cycle of a tropical gecko, Gehyra oceanica",
+    "version": 1
+  }
+}

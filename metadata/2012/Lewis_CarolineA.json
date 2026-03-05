@@ -1,0 +1,85 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Lewis",
+          "given_name": "Caroline A."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2012/Lewis_CarolineA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2012",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "anemone"
+      },
+      {
+        "subject": "adhesion"
+      },
+      {
+        "subject": "Heteractis magnifica"
+      },
+      {
+        "subject": "force"
+      },
+      {
+        "subject": "current"
+      },
+      {
+        "subject": "abundance"
+      },
+      {
+        "subject": "Mo\u2019orea, French Polynesia"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "THE INFLUENCE OF CURRENT ON THE ADHESIVE POTENTIAL, DENSITY AND ABUNDANCE OF THE MAGNIFICENT SEA ANEMONE (HETERACTIS MAGNIFICA) IN MO\u2019OREA, FRENCH POL YNESIA ",
+    "version": 1
+  }
+}

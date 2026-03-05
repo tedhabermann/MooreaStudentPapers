@@ -1,0 +1,110 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Sorensen",
+          "given_name": "M. A."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Island ecosystems are fragile assemblages of unique organisms. Moorea is such an assemblage, with many unique plants, animals, and species interactions. However, like many islands Moorea is increasingly inhabited by invasive species that compete with and often drive to extinction the native species. The indigenous tree Metrosideros collina has small red bottlebrush flowers grouped in inflorescences of approximately 10-20 flowers. Red color, abundant nectar, and an open shape are thought to be characters of bird pollinated flowers, and indeed in Hawaii and New Zealand Metrosideros species have been shown to be bird pollinated. On Moorea the pollinators of M. collina have been little studied. Through observation this study found that M. collina on Moorea is visited most often by European honeybees (Apis mellifera) and white-eye birds, and is additionally visited by three species of wasp, two species of butterfly, a skink lizard. Many specimens were captured and analyzed for pollen presence. M. collina flowers are generalist, offering nectar and pollen rewards accessible to many nectivorous animals. A generalist strategy facilitates both colonization of new islands and persistence on islands with high rates of species turnover. Future study could investigate pollinator efficiency and pollinator community composition over an elevation gradient.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2002/Sorensen_MA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2002",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Metrosideros collina"
+      },
+      {
+        "subject": "Myrtaceae"
+      },
+      {
+        "subject": "pollination"
+      },
+      {
+        "subject": "flower morphology"
+      },
+      {
+        "subject": "self compatibility"
+      },
+      {
+        "subject": "Insecta"
+      },
+      {
+        "subject": "Apis mellifera"
+      },
+      {
+        "subject": "Apidae"
+      },
+      {
+        "subject": "Hymenoptera"
+      },
+      {
+        "subject": "endemic"
+      },
+      {
+        "subject": "birds"
+      },
+      {
+        "subject": "lizards"
+      },
+      {
+        "subject": "Lepidoptera"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Flower Visitors of Metrosideros collina (Myrtaceae) on Moorea",
+    "version": 1
+  }
+}

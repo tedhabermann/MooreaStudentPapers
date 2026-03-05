@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Kinney",
+          "given_name": "Michael J."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2004/Kinney_MichaelJ",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2004",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "mutualism"
+      },
+      {
+        "subject": "commensalism"
+      },
+      {
+        "subject": "symbiosis"
+      },
+      {
+        "subject": "habituation"
+      },
+      {
+        "subject": "Gobiidae"
+      },
+      {
+        "subject": "alpheid shrimp"
+      },
+      {
+        "subject": "predator"
+      },
+      {
+        "subject": "Pterois radiata"
+      },
+      {
+        "subject": "burrow protection"
+      },
+      {
+        "subject": "defensive response"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Habituation and behavioral variance of shrimp-associated gobies related to a natural predator",
+    "version": 1
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Long",
+          "given_name": "Elizabeth"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2007/Long_Elizabeth",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2007",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "invasive"
+      },
+      {
+        "subject": "agroforestry"
+      },
+      {
+        "subject": "forestry"
+      },
+      {
+        "subject": "Paraserianthes falcataria"
+      },
+      {
+        "subject": "Albizia falcataria"
+      },
+      {
+        "subject": "Falcataria moluccana"
+      },
+      {
+        "subject": "distribution mapping"
+      },
+      {
+        "subject": "GIS"
+      },
+      {
+        "subject": "disturvance"
+      },
+      {
+        "subject": "stand dynamics"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Distribution and Stand Dynamics of the Falcata Tree, Paraserianthes (Albizia) Falcataria in Moorea, French Polynesia",
+    "version": 1
+  }
+}

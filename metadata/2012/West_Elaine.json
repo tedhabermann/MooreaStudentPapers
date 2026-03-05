@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "West",
+          "given_name": "Elaine"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Regeneration is common amongst all classes of echinoderms and is easily studied in the laboratory with abundant and tractable ophiuroid specimens. However, ophiuroid regeneration rates, both between species and within the same species, can exhibit uncommonly high variation even under identical laboratory conditions. Eighty four Ophiocoma scolopendrina  (Lamarck 1816), a brittle star which extends its arms out into the water column to suspension feed, were collected from the upper-intertidal zone of rocky beaches on the island of Moorea, French Polynesia for laboratory regeneration experiments. To determine the effects of position of autotomy and feeding level on regenerated length and differentiation of new biomass, two treatments were performed: an amputation treatment either 5 mm from the central disk or 30 mm from the distal tip; and a feeding treatment of high-food or low-food. Additionally, a field survey was conducted to assess predation pressure and autotomy of O. scolopendrina  in upperintertidal zones. This study demonstrated that O. scolopendrina  are well adapted to the high levels of sub-lethal predation at the arm tips by quickly resuming the ability to detect predators via photo and chemoreception. The results of this investigation can help to better inform calculations of energy cycling in ecosystems and has potential applications for further research on the connections between ophiuroid life-history and predation pressure on variable regeneration rates",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2012/West_Elaine",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2012",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "ophiuroid"
+      },
+      {
+        "subject": "echinodermata"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "regeneration"
+      },
+      {
+        "subject": "intact arm"
+      },
+      {
+        "subject": "regenerating arm autonomy"
+      },
+      {
+        "subject": "brittle star"
+      },
+      {
+        "subject": "Ophiocoma scolopendrina"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Adaptive regeneration of Ophicoma scolopendrina (Echinodermata: Ophiuroidea) under two feeding treatments in Moorea, French Polynesia",
+    "version": 1
+  }
+}

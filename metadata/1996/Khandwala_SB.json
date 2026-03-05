@@ -1,0 +1,113 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Khandwala",
+          "given_name": "S. B."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1996/Khandwala_SB",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1996",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "stream"
+      },
+      {
+        "subject": "discharge"
+      },
+      {
+        "subject": "elevation"
+      },
+      {
+        "subject": "Hibiscus tiliaceus"
+      },
+      {
+        "subject": "Malvaceae"
+      },
+      {
+        "subject": "Inocarpus fagiferus"
+      },
+      {
+        "subject": "Fabaceae"
+      },
+      {
+        "subject": "leaf retention"
+      },
+      {
+        "subject": "Macrobrachium"
+      },
+      {
+        "subject": "Caradina"
+      },
+      {
+        "subject": "shrimp"
+      },
+      {
+        "subject": "Palaemonidae"
+      },
+      {
+        "subject": "Atyidae"
+      },
+      {
+        "subject": "Crustacea"
+      },
+      {
+        "subject": "ecosystem",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Leaf retention and decomposition in a tropical island stream, Moorea, French Polynesia",
+    "version": 1
+  }
+}

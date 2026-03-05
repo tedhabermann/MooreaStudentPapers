@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Kreitz",
+          "given_name": "T."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "This study of the feeding mechanisms of Dendropoma maxima took place in Moorea, French Polynesia. Initial tests were focused on the contents of mucus net hauls. Microscope analysis revealed a haul predominately benthic in nature. Subsequent substrate and water column comparisons, along with observations of flow properties in regards to net reactions, revealed that mucus nets were capturing organisms off of the substrate. This in turn led into the study of D. maxima reactions to heavily saturated or disturbed mucus nets. In the end a sampling study was completed in high flow and low flow areas to look for variance in population density. Culmination of these 5 distinct sections offered these new insights into the feeding behavior of this unique organism: 1. Organisms caught in the mucus nets of D. maxima are primarily benthic in origin. 2. Samples of water and substrate support the hypothesis that net hauls have a predominately benthic origin. 3. Observations and visualizations of flow show a physical process by which the mucus net traps particles it has dislodged from the substrate. 4. Responses to mucus net saturation or disturbance were uniform, with the net being hauled in immediately. 5. Population densities are highest in high flow area, which supports the idea that water flow is playing a significant role in the dislodging of particles off the substrate, thus producing a food source for D. maxima. More importantly, however, this study provided a base on which further studies can be built.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2001/Kreitz_T",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2001",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Dendropoma maxima"
+      },
+      {
+        "subject": "Mollusca"
+      },
+      {
+        "subject": "Vermitidae"
+      },
+      {
+        "subject": "Gastropoda"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "snails"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "On the feeding biology and behavior of Dendropoma maxima in the bays and lagoons of Moorea, French Polynesia",
+    "version": 1
+  }
+}

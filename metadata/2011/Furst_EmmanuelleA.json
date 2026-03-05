@@ -1,0 +1,88 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Furst",
+          "given_name": "Emmanuelle A."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Furst_EmmanuelleA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "elasmobranch"
+      },
+      {
+        "subject": "ray"
+      },
+      {
+        "subject": "Himantura fai"
+      },
+      {
+        "subject": "network analysis"
+      },
+      {
+        "subject": "social structure"
+      },
+      {
+        "subject": "Mo'orea, French Polynesia"
+      },
+      {
+        "subject": "feeding excursions"
+      },
+      {
+        "subject": "animal behavior"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "NETWORK ANALYSIS OF THE TAHITIAN RAY (HIMANTURA FAI) IN MO'OREA, FRENCH POLYNESIA: IS THERE SOCIAL STRUCTURE TO THE FEEDING FRENZY? ",
+    "version": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Chang",
+          "given_name": "Carol"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2006/Chang_Carol",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2006",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "microbial mats"
+      },
+      {
+        "subject": "blue-grea algae"
+      },
+      {
+        "subject": "cyanobacteria"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Marine mats"
+      },
+      {
+        "subject": "Temae Beach"
+      },
+      {
+        "subject": "microbe",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Ancient lawns in a modern day world: distribution and characterization of marine microbial mats at Temae Beach, Moorea, French Polynesia",
+    "version": 1
+  }
+}

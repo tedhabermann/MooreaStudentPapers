@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Chung",
+          "given_name": "M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2001/Chung_M",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2001",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "plants"
+      },
+      {
+        "subject": "ginger"
+      },
+      {
+        "subject": "Zingiber"
+      },
+      {
+        "subject": "Alpinia"
+      },
+      {
+        "subject": "Curcuma"
+      },
+      {
+        "subject": "Etlingera"
+      },
+      {
+        "subject": "Zingiberaceae"
+      },
+      {
+        "subject": "ecology"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "A floristic study of the gingers (Family: Zingiberaceae) in Moorea, French Polynesia",
+    "version": 1
+  }
+}

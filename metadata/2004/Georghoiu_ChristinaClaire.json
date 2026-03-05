@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Georghoiu",
+          "given_name": "Christina Claire"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2004/Georghoiu_ChristinaClaire",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2004",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "herbivory"
+      },
+      {
+        "subject": "Halimeda"
+      },
+      {
+        "subject": "epiphytes"
+      },
+      {
+        "subject": "calcification"
+      },
+      {
+        "subject": "reef communities"
+      },
+      {
+        "subject": "seaweed distribution"
+      },
+      {
+        "subject": "Point Aroa"
+      },
+      {
+        "subject": "Faimano reef"
+      },
+      {
+        "subject": "negative relationship"
+      },
+      {
+        "subject": "algae",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "A study of the tropical marine algae Halimeda discoidea: plant distribution and the effects of epiphyte coverage on fish herbivory in Moorea, French Polynesia",
+    "version": 1
+  }
+}

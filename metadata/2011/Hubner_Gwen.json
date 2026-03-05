@@ -1,0 +1,79 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Hubner",
+          "given_name": "Gwen"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Hubner_Gwen",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "nudibranchs"
+      },
+      {
+        "subject": "Chromodoris lochi"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "environment Mo\u2019orea, French Polynesia"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "NUDIBRANCH NEIGHBORHOOD: THE DISTRIBUTION OF TWO NUDIBRANCH SPECIES (CHROMODORIS LOCHI AND CHROMODORIS SPP.) IN COOK\u2019S BAY, MO\u2019OREA, FRENCH POL YNESIA",
+    "version": 1
+  }
+}

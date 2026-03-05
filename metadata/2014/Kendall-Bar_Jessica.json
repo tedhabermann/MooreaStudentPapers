@@ -1,0 +1,91 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Kendall-Bar",
+          "given_name": "Jessica"
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2014/Kendall-Bar_Jessica",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2014",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "moray eels"
+      },
+      {
+        "subject": "Anguilliformes"
+      },
+      {
+        "subject": "Gymnothorax"
+      },
+      {
+        "subject": "Echidna"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "den fidelity"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "vertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Behavior, den fidelity, and distribution of moray eels (Muraenidae) on Moorea in French Polynesia",
+    "version": 1
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Roy-Burman",
+          "given_name": "P."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1999/Roy-Burman_P",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1999",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "fire"
+      },
+      {
+        "subject": "invertebrates"
+      },
+      {
+        "subject": "disturbance"
+      },
+      {
+        "subject": "diversity"
+      },
+      {
+        "subject": "Insecta"
+      },
+      {
+        "subject": "Araneae"
+      },
+      {
+        "subject": "spider"
+      },
+      {
+        "subject": "Chilopoda"
+      },
+      {
+        "subject": "centipede"
+      },
+      {
+        "subject": "Diplopoda"
+      },
+      {
+        "subject": "millipede"
+      },
+      {
+        "subject": "Annelida"
+      },
+      {
+        "subject": "worm"
+      },
+      {
+        "subject": "Gastropoda"
+      },
+      {
+        "subject": "snails"
+      },
+      {
+        "subject": "Dysderidae"
+      },
+      {
+        "subject": "Heteropodidae"
+      },
+      {
+        "subject": "Scytodidae"
+      },
+      {
+        "subject": "Araneidae"
+      },
+      {
+        "subject": "Pholcidae"
+      },
+      {
+        "subject": "Tetragnathidae"
+      },
+      {
+        "subject": "Uloboridae"
+      },
+      {
+        "subject": "Salticidae"
+      },
+      {
+        "subject": "Coccinellidae"
+      },
+      {
+        "subject": "Scolytidae"
+      },
+      {
+        "subject": "Tenebrionidae"
+      },
+      {
+        "subject": "Blattidae"
+      },
+      {
+        "subject": "Delphacidae"
+      },
+      {
+        "subject": "Miridae"
+      },
+      {
+        "subject": "Pentatomidae"
+      },
+      {
+        "subject": "Reduviidae"
+      },
+      {
+        "subject": "Formicidae"
+      },
+      {
+        "subject": "Gryllidae"
+      },
+      {
+        "subject": "Isopoda"
+      },
+      {
+        "subject": "recovery"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The impact of fire on invertebrate macrofauna in Moorea, French Polynesia",
+    "version": 1
+  }
+}

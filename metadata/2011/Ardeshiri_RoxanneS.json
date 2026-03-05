@@ -1,0 +1,91 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Ardeshiri",
+          "given_name": "Roxanne S."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Ardeshiri_RoxanneS",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "herbivory"
+      },
+      {
+        "subject": "insects"
+      },
+      {
+        "subject": "Hibiscus tiliaceus"
+      },
+      {
+        "subject": "Hibiscus rosa-sinensis"
+      },
+      {
+        "subject": "anthropogenic"
+      },
+      {
+        "subject": "fragmentation"
+      },
+      {
+        "subject": "Mo'orea, French Polynesia"
+      },
+      {
+        "subject": "agriculture"
+      },
+      {
+        "subject": "edge effect"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "PATTERNS OF INSECT HERBIVORY ON INDIGENOUS HIBISCUS TILIACEUS AND INTRODUCED HIBISCUS ROSA-SINENSIS ACROSS HUMAN IMPACTED AREAS IN MO'OREA, FRENCH POLYNESIA",
+    "version": 1
+  }
+}

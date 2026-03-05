@@ -1,0 +1,89 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Elitzur",
+          "given_name": "B."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "The association between habitat and burrow site choice of the tropical land crab, Cardisoma carniflex, was examined. Choice experiments, along with transects examining population density compared with ecological factors, were performed to elucidate the factors effecting the burrow distribution of C. carniflex. Captured crabs were put in enclosures designed to present two habitat choices in which to burrow. These choices mirrored the variety of habitats in which C. carniflex naturally resides. The results of these experiments were compared to burrow density data of natural crab populations. The results of the experminents showed that crabs preferentially burrowed in sand over dirt (p=0.002), moist soil over dry soil (p=0.007), and areas with artificial leaf canopy cover over areas with no cover (p=0.019). Comparison between experimental data and natural burrow density data, which was strongly correlated with habitat location and canopy cover (p=0.0001 in both cases), was inconclusive, but suggested the importance of canopy cover's effect on burrow density, which may outweigh the effets of sediment characteristics.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2001/Elitzur_B",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2001",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "crabs"
+      },
+      {
+        "subject": "Crustacea"
+      },
+      {
+        "subject": "Cardisoma carnifex"
+      },
+      {
+        "subject": "Geocarcinidae"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Habitat and its effect on burrow distribution of the land crab, Cardisoma carnifex (Herbst 1794)",
+    "version": 1
+  }
+}

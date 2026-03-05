@@ -1,0 +1,91 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Thayer",
+          "given_name": "Lesley K."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2011/Thayer_LesleyK",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2011",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "mutualism"
+      },
+      {
+        "subject": "arthropods"
+      },
+      {
+        "subject": "Myrmicinae Pheidole terramorium"
+      },
+      {
+        "subject": "Paratrechina longicornis"
+      },
+      {
+        "subject": "Hibiscus tiliaceus"
+      },
+      {
+        "subject": "facilitation"
+      },
+      {
+        "subject": "invasion meltdown"
+      },
+      {
+        "subject": "Mo\u2019orea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "An independently evolved mutualism among ants (Myrmicinae pheidole terramorium and Paratrechina longicornis), sea hibiscus (Hibiscus tiliaceus) and hemiptera: an invader-invader mutualism and invasion meltdown",
+    "version": 1
+  }
+}

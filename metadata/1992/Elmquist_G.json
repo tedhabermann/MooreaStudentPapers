@@ -1,0 +1,107 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Elmquist",
+          "given_name": "G."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1992/Elmquist_G",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1992",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Stomatopoda"
+      },
+      {
+        "subject": "Pseudosquilla"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "aggression"
+      },
+      {
+        "subject": "territoriality"
+      },
+      {
+        "subject": "Gonodactylus"
+      },
+      {
+        "subject": "Octopus"
+      },
+      {
+        "subject": "Octopodidae"
+      },
+      {
+        "subject": "Crustacea"
+      },
+      {
+        "subject": "Malacostraca"
+      },
+      {
+        "subject": "Gonodactilidae"
+      },
+      {
+        "subject": "Cephalopoda"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Recognition abilities of the stomatopod Pseudosquilla",
+    "version": 1
+  }
+}

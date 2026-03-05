@@ -1,0 +1,113 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Prado",
+          "given_name": "Erin M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2006/Prado_ErinM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2006",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "insects"
+      },
+      {
+        "subject": "community structure"
+      },
+      {
+        "subject": "herbivory"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Barringtonia asiatica"
+      },
+      {
+        "subject": "Carica papaya"
+      },
+      {
+        "subject": "Hibiscus tiliaceus"
+      },
+      {
+        "subject": "Mangifera spp."
+      },
+      {
+        "subject": "Morinda citrifolia"
+      },
+      {
+        "subject": "Musa spp."
+      },
+      {
+        "subject": "Terminalia catappa"
+      },
+      {
+        "subject": "Thespesia populnea"
+      },
+      {
+        "subject": "biodiverity"
+      },
+      {
+        "subject": "indigenous"
+      },
+      {
+        "subject": "native"
+      },
+      {
+        "subject": "non-native"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Insect biodiversity and assessment of herbivory in native and non-native plants in Mo'orea, French Polynesia",
+    "version": 1
+  }
+}

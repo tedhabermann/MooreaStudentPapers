@@ -1,0 +1,101 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Thomas",
+          "given_name": "H."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "The feeding ecology of the long-jawed spider Tetragnatha maxillosa was examined in a four part study addressing habitat distribution, web characteristics, prey and web site movement. Habitat distribution observations showed spiders built webs primarily on Hibiscus and on rocks over reaches of riffle in streams sampled at six sites. Web measurements and observations revealed mature spiders built larger webs slightly closer to the stream water's surface than those of immature spiders and that webs of larger size had more radii. A mark-recapture study showed infrequent movement over distances averaging less than 1 meter. Insect sampling was conducted to provide a general description of prey availability over water in the riparian feeding environment and showed that although insects collected from the webs and the environment were all families of Diptera, the insects found in the jaws of T. maxillosa were specifically of the family Simuliidae (blackflies). This suggests there may be a strong predator-prey relationship between T. maxillosa and this family of flies that are considered pests in French Polynesia.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2001/Thomas_H",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2001",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "spider"
+      },
+      {
+        "subject": "Araneae"
+      },
+      {
+        "subject": "Tetragnathidae"
+      },
+      {
+        "subject": "Tetragnatha maxillosa"
+      },
+      {
+        "subject": "feeding"
+      },
+      {
+        "subject": "Insecta"
+      },
+      {
+        "subject": "Diptera"
+      },
+      {
+        "subject": "Simuliidae"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The feeding ecology of Tetragnatha maxillosa (Araneae: Tetragnathidae) on Moorea, Society Islands, French Polynesia",
+    "version": 1
+  }
+}

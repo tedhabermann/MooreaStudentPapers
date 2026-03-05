@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Zajaczkowski",
+          "given_name": "M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1998/Zajaczkowski_M",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1998",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "Jania"
+      },
+      {
+        "subject": "Turbinaria ornata"
+      },
+      {
+        "subject": "Sargassaceae"
+      },
+      {
+        "subject": "translocation/transplant"
+      },
+      {
+        "subject": "herbivory"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "sedimentation"
+      },
+      {
+        "subject": "algae",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Spatial distribution of the epiphytic coralline red algae Jania within populations of the brown alga Turbinaria ornata",
+    "version": 1
+  }
+}

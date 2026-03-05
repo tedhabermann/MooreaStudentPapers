@@ -1,0 +1,101 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Becker",
+          "given_name": "J."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1992/Becker_J",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1992",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Insecta"
+      },
+      {
+        "subject": "mosquitoes"
+      },
+      {
+        "subject": "Diptera"
+      },
+      {
+        "subject": "Culicidae"
+      },
+      {
+        "subject": "Aedes"
+      },
+      {
+        "subject": "Culex"
+      },
+      {
+        "subject": "Toxorhynchites amboinensis"
+      },
+      {
+        "subject": "coconut"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "reproduction"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Factors influencing distribution of larval mosquitoes of the genera Aedes, Culex, and Toxorhynchites (Diptera: Culicidae) on Moorea and the relative importance of coconuts and roadside trash as breeding sites",
+    "version": 1
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Hatosy",
+          "given_name": "Stephen M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Coral reefs are interesting formations. They retain high species diversity even though the open seas around them are basically deserts. Yet they are also very fragile ecosystems and have recently sparked much work dedicated to reef conservation and management. By using morphological character development and phylogenetic analysis of the green alga Halimeda, it is hoped a better understanding of reef evolution can be synthesized. Investigation of sixteen morphological characters shows independent colonization of the reefs on Moorea.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2005/Hatosy_StephenM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2005",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Halimeda"
+      },
+      {
+        "subject": "Halimeda distorta"
+      },
+      {
+        "subject": "Halimeda minima"
+      },
+      {
+        "subject": "Halimeda opuntia"
+      },
+      {
+        "subject": "Halimeda borneensis"
+      },
+      {
+        "subject": "Halimeda discoidea"
+      },
+      {
+        "subject": "Halimeda taenicola"
+      },
+      {
+        "subject": "algal ridge"
+      },
+      {
+        "subject": "back reef"
+      },
+      {
+        "subject": "lagoon"
+      },
+      {
+        "subject": "fringing reef"
+      },
+      {
+        "subject": "bay"
+      },
+      {
+        "subject": "motu"
+      },
+      {
+        "subject": "morphology"
+      },
+      {
+        "subject": "phylogeny"
+      },
+      {
+        "subject": "phylogenetic conservatism"
+      },
+      {
+        "subject": "phylogenetic repulsi"
+      },
+      {
+        "subject": "algae",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Phylogenetic distribution of Halimeda (Bropsidales) on Moorea",
+    "version": 1
+  }
+}

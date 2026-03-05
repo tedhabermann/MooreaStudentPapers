@@ -1,0 +1,104 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Gehlbach",
+          "given_name": "S. J."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1994/Gehlbach_SJ",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1994",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "urchins"
+      },
+      {
+        "subject": "Echinodermata"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "disturbance"
+      },
+      {
+        "subject": "Echinometra mathaei"
+      },
+      {
+        "subject": "Echinostrephus molaris"
+      },
+      {
+        "subject": "Echinothrix calamaris"
+      },
+      {
+        "subject": "Echinothrix diadema"
+      },
+      {
+        "subject": "Diadema savignyi"
+      },
+      {
+        "subject": "Tripneustes gratilla"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Relative abundance, depth, and linear distribution of six species of sea urchin along continuous reef to shore profiles at two differing sites in the lagoon on Moorea, French Polynesia",
+    "version": 1
+  }
+}

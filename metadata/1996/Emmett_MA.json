@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Emmett",
+          "given_name": "M. A."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1996/Emmett_MA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1996",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "seagrass"
+      },
+      {
+        "subject": "Halophila decipiens"
+      },
+      {
+        "subject": "plants"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "morphology"
+      },
+      {
+        "subject": "PaoPao Bay"
+      },
+      {
+        "subject": "Opunohu Bay"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The distribution and morphology of seagrass (Halophila decipiens) in Moorea, French Polynesia",
+    "version": 1
+  }
+}

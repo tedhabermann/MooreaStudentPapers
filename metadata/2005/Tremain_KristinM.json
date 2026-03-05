@@ -1,0 +1,116 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Tremain",
+          "given_name": "Kristin M."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "Holothurians are a large and diverse group of echinoderms that inhabit the oceans of the world. Here, a phylogeny is created based on morphological data of the sea cucumbers of Moorea, French Polynesia, to test colonization theory. This phylogeny is based on 11 local intertidal species. The phylogeny reveals that phylogenetic clumping is the mechanism of Holothurian colonization on the island of Moorea.",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2005/Tremain_KristinM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2005",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "sea cucumber"
+      },
+      {
+        "subject": "Holothuria"
+      },
+      {
+        "subject": "morphology"
+      },
+      {
+        "subject": "phylogeny"
+      },
+      {
+        "subject": "Aspidochirotida"
+      },
+      {
+        "subject": "community"
+      },
+      {
+        "subject": "habitat"
+      },
+      {
+        "subject": "colonization"
+      },
+      {
+        "subject": "overdispersion"
+      },
+      {
+        "subject": "phylogenetic clustering"
+      },
+      {
+        "subject": "evoluationary polarity"
+      },
+      {
+        "subject": "phylogenetic conservatism"
+      },
+      {
+        "subject": "niche"
+      },
+      {
+        "subject": "Apodida"
+      },
+      {
+        "subject": "Synapta maculata"
+      },
+      {
+        "subject": "Chirotida hawaiiensis"
+      },
+      {
+        "subject": "Holo"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Patterns of community composition: A phylogeny of the holothurians of Moorea",
+    "version": 1
+  }
+}

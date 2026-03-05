@@ -1,0 +1,97 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Drabble",
+          "given_name": "Tiara M."
+        },
+        "type": "personal"
+      }
+    ],
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2017/Drabble_TiaraM",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2017",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "corallivores"
+      },
+      {
+        "subject": "seastars"
+      },
+      {
+        "subject": "Barringtonia asiatica"
+      },
+      {
+        "subject": "fish poison tree"
+      },
+      {
+        "subject": "Acanthaster planci"
+      },
+      {
+        "subject": "Culcita novaeguineae"
+      },
+      {
+        "subject": "crown of thorns seastar"
+      },
+      {
+        "subject": "cushion star"
+      },
+      {
+        "subject": "population control"
+      },
+      {
+        "subject": "biocontrol"
+      },
+      {
+        "subject": "Moorea, French Polynesia"
+      },
+      {
+        "subject": "invertebrate",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "EFFICACY OF BARRINGTONIA ASIATICA AS CONTROL FOR CORALLIVOROUS SEASTARS, ACANTHASTER PLANCI AND CULCITA NOVAEGUINEAE",
+    "version": 1
+  }
+}

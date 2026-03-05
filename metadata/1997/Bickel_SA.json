@@ -1,0 +1,95 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Bickel",
+          "given_name": "S. A."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1997/Bickel_SA",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1997",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "crabs"
+      },
+      {
+        "subject": "Cardisoma carnifex"
+      },
+      {
+        "subject": "Geocarcinidae"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "Crustacea"
+      },
+      {
+        "subject": "Decapoda"
+      },
+      {
+        "subject": "Arthropoda"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Burrowing ecology and behavior of the land crab Cardisoma carnifex in Moorea, French Polynesia",
+    "version": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Vo",
+          "given_name": "Julia"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": "<P class=MsoNormal style=",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2005/Vo_Julia",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2005",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Coenobita rugosus"
+      },
+      {
+        "subject": "resource availability"
+      },
+      {
+        "subject": "Ideal Free Distribution"
+      },
+      {
+        "subject": "population structure"
+      },
+      {
+        "subject": "hermit crab"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The characteristics of hermit crab populations and shell availability on Moorea, French Polynesia",
+    "version": 1
+  }
+}

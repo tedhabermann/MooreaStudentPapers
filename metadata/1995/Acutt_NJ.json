@@ -1,0 +1,92 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Acutt",
+          "given_name": "N. J."
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/1995/Acutt_NJ",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "1995",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "mangrove"
+      },
+      {
+        "subject": "Rhizophora stylosa"
+      },
+      {
+        "subject": "Rhizophoraceae"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "reproduction"
+      },
+      {
+        "subject": "plants"
+      },
+      {
+        "subject": "morphology"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "Terrestrial",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "Establishment of Rhizophora stylosa, in introduced mangrove on Moorea, French Polynesia",
+    "version": 1
+  }
+}

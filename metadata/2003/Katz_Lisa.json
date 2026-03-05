@@ -1,0 +1,86 @@
+{
+  "access": {
+    "files": "public",
+    "record": "public"
+  },
+  "files": {
+    "enabled": true
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Katz",
+          "given_name": "Lisa"
+        },
+        "type": "personal"
+      }
+    ],
+    "description": " ",
+    "identifiers": [
+      {
+        "identifier": "10.17913/bgtl/2003/Katz_Lisa",
+        "scheme": "doi"
+      }
+    ],
+    "publication_date": "2003",
+    "publisher": "University of California, Berkeley",
+    "resource_type": "publication-preprint",
+    "contributors": [
+      {
+        "person_or_org": {
+          "name": "Gump South Pacific Research Station",
+          "type": "organizational",
+          "identifiers": [
+            {
+              "scheme": "ror",
+              "identifier": "04sk0et52"
+            }
+          ]
+        },
+        "role": {
+          "id": "sponsor"
+        },
+        "affiliations": [
+          {
+            "id": "04sk0et52",
+            "name": "Gump South Pacific Research Station"
+          }
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "corraline red algae"
+      },
+      {
+        "subject": "rhodoliths"
+      },
+      {
+        "subject": "Lithophyllum"
+      },
+      {
+        "subject": "Hydrolithion reinboldii"
+      },
+      {
+        "subject": "CaCO3 budget"
+      },
+      {
+        "subject": "morphology"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "algae",
+        "subjectScheme": "organism"
+      },
+      {
+        "subject": "marine",
+        "subjectScheme": "where"
+      }
+    ],
+    "title": "The ecology of rhodoliths from shallow-water back reef environments in Moorea, French Polynesia",
+    "version": 1
+  }
+}
