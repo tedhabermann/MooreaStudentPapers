@@ -1,0 +1,137 @@
+{
+  "id": "10.17913/bgtl/2006/8/Ghazali_SameenR",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Sameen R.",
+        "family_name": "Ghazali",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Displays of defense: behavioral differences in antagonist avoidance in four opisthobranch mollusks"
+      }
+    ],
+    "publicationYear": "2006",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2006",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "defense"
+      },
+      {
+        "subject": "inking"
+      },
+      {
+        "subject": "mantle flexations"
+      },
+      {
+        "subject": "rearing"
+      },
+      {
+        "subject": "opisthobranch"
+      },
+      {
+        "subject": "nudibranch"
+      },
+      {
+        "subject": "sea hare"
+      },
+      {
+        "subject": "Chromodorididae"
+      },
+      {
+        "subject": "Aplysiidae"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Glossodoris cincta"
+      },
+      {
+        "subject": "Risbecia imperialis"
+      },
+      {
+        "subject": "Stylochelius striatus"
+      },
+      {
+        "subject": "Dolabrefera dolabrifera"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "marine"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "10.17913/bgtl/2013/13/Rosenthal_LisaM",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Lisa M.",
+        "family_name": "Rosenthal",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "An unresolved question: do fungal endophytes influence the disease incidence of Miconia calvescens (Melastomataceae) on Moorea, French Polynesia?"
+      }
+    ],
+    "publicationYear": "2013",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2013",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Miconia calvescens"
+      },
+      {
+        "subject": "Colletotrichum gloeosporoides f. sp. miconiae"
+      },
+      {
+        "subject": "endo-phyte community"
+      },
+      {
+        "subject": "richness"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "abiotic factors"
+      },
+      {
+        "subject": "biotic factors"
+      },
+      {
+        "subject": "disease incidence"
+      },
+      {
+        "subject": "Plant",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

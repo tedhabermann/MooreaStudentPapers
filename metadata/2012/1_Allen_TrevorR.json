@@ -1,0 +1,122 @@
+{
+  "id": "10.17913/bgtl/2012/1/Allen_TrevorR",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Trevor R.",
+        "family_name": "Allen",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The effects of ocean acidification and sea surface warming on the embryonic development of the opisthobranch gastropod Stylocheilus striatus"
+      }
+    ],
+    "publicationYear": "2012",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2012",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "climate change"
+      },
+      {
+        "subject": "ocean acidification"
+      },
+      {
+        "subject": "sea surface warming"
+      },
+      {
+        "subject": "marine gastropod"
+      },
+      {
+        "subject": "embryonic development"
+      },
+      {
+        "subject": "Stylocheilus"
+      },
+      {
+        "subject": "Anaspidea"
+      },
+      {
+        "subject": "Aplysiomorpha"
+      },
+      {
+        "subject": "Mo'orea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "invertebrate",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "marine"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

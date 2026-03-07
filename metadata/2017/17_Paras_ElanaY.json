@@ -1,0 +1,119 @@
+{
+  "id": "10.17913/bgtl/2017/17/Paras_ElanaY",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Elana Y.",
+        "family_name": "Paras",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "COMPARISON OF THE THERMOREGULATORY BEHAVIORS AND HABITAT PREFERENCES OF TWO CRYPTIC SKINK SPECIES (EMOIA IMPAR AND EMOIA CYANURA) IN MOOREA, FRENCH POLYNESIA"
+      }
+    ],
+    "publicationYear": "2017",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2017",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "skinks"
+      },
+      {
+        "subject": "Emoia"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "thermoregulation"
+      },
+      {
+        "subject": "thermal range, thermal heterogeneity"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "climate change"
+      },
+      {
+        "subject": "human land use"
+      },
+      {
+        "subject": "vertebrate",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

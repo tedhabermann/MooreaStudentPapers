@@ -1,0 +1,131 @@
+{
+  "id": "10.17913/bgtl/1998/5/Crandall_ED",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "E. D.",
+        "family_name": "Crandall",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Early life history aspects of amphidromous neritid snails in Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "1998",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1998",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "snails"
+      },
+      {
+        "subject": "amphidromous"
+      },
+      {
+        "subject": "Neritidae"
+      },
+      {
+        "subject": "Gastropoda"
+      },
+      {
+        "subject": "Neritina canalis"
+      },
+      {
+        "subject": "Neritina turrita"
+      },
+      {
+        "subject": "Clithon spinosa"
+      },
+      {
+        "subject": "Septaria porcellana"
+      },
+      {
+        "subject": "biology"
+      },
+      {
+        "subject": "physiology"
+      },
+      {
+        "subject": "Mollusca"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

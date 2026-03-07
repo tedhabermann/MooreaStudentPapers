@@ -1,0 +1,143 @@
+{
+  "id": "10.17913/bgtl/1995/5/Dinn_L",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "L.",
+        "family_name": "Dinn",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Predictability in a coral reef fish community: a fixed theory?"
+      }
+    ],
+    "publicationYear": "1995",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1995",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "fish"
+      },
+      {
+        "subject": "Osteichthys"
+      },
+      {
+        "subject": "reef"
+      },
+      {
+        "subject": "corals"
+      },
+      {
+        "subject": "Cnidaria"
+      },
+      {
+        "subject": "Acropora formosa"
+      },
+      {
+        "subject": "Acroporidae"
+      },
+      {
+        "subject": "Dascyllus aruanus"
+      },
+      {
+        "subject": "Stegastes nigricans"
+      },
+      {
+        "subject": "Pomacentridae"
+      },
+      {
+        "subject": "Chaetodon citrinellus"
+      },
+      {
+        "subject": "Chaetodontidae"
+      },
+      {
+        "subject": "Zebrasoma scopas"
+      },
+      {
+        "subject": "Acanthuridae"
+      },
+      {
+        "subject": "distribution"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "marine"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "10.17913/bgtl/2017/11/Humeston_BrentM",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Brent M.",
+        "family_name": "Humeston",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "THE EFFECTS OF OCEAN ACIDIFICATIONON FERTILIZATION AND EMBRYOGENESIS IN RELATION TO THE EVOLUTIONARY DEVELOPMENTAL BIOLOGY OF SEA URCHINS IN MOOREA, FRENCH POLYNESIA"
+      }
+    ],
+    "publicationYear": "2017",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2017",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "echinoids"
+      },
+      {
+        "subject": "sea urchins"
+      },
+      {
+        "subject": "Tripneustes gratilla"
+      },
+      {
+        "subject": "Echinometra mathaei"
+      },
+      {
+        "subject": "ocean acidification"
+      },
+      {
+        "subject": "evolutionary development"
+      },
+      {
+        "subject": "heterchrony"
+      },
+      {
+        "subject": "embryogenesis"
+      },
+      {
+        "subject": "developmental timing"
+      },
+      {
+        "subject": "early development"
+      },
+      {
+        "subject": "abundance surveys"
+      },
+      {
+        "subject": "Moorea, French Polynesia"
+      },
+      {
+        "subject": "invertebrate",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "marine"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

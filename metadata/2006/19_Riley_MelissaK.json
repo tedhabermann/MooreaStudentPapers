@@ -1,0 +1,125 @@
+{
+  "id": "10.17913/bgtl/2006/19/Riley_MelissaK",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Melissa K.",
+        "family_name": "Riley",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Comparison of food preference and behavior of two waterstriders Halobates hawaiiensis and Limnogonus luctuosus (Hemiptera: Gerridae) in Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2006",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2006",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "water striders"
+      },
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "hemiptera"
+      },
+      {
+        "subject": "heteroptera"
+      },
+      {
+        "subject": "gerridae"
+      },
+      {
+        "subject": "Halobates hawaiiensis"
+      },
+      {
+        "subject": "Limnogonus luctuosus"
+      },
+      {
+        "subject": "food preference"
+      },
+      {
+        "subject": "behavior"
+      },
+      {
+        "subject": "density"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

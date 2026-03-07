@@ -1,0 +1,158 @@
+{
+  "id": "10.17913/bgtl/1994/8/Johnson_R",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "R.",
+        "family_name": "Johnson",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "A phylogeny of Moorean nudibranchs with a test of nudibranch palatability"
+      }
+    ],
+    "publicationYear": "1994",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1994",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "Nudibranchia"
+      },
+      {
+        "subject": "Mollusca"
+      },
+      {
+        "subject": "phylogeny"
+      },
+      {
+        "subject": "predation"
+      },
+      {
+        "subject": "Gymnodoris"
+      },
+      {
+        "subject": "Glossidoris"
+      },
+      {
+        "subject": "Risbecia imperialis"
+      },
+      {
+        "subject": "Chromodoris"
+      },
+      {
+        "subject": "Chromodorididae"
+      },
+      {
+        "subject": "Noumea"
+      },
+      {
+        "subject": "Hypselodoris"
+      },
+      {
+        "subject": "Dendrodoris"
+      },
+      {
+        "subject": "Berthellina"
+      },
+      {
+        "subject": "Stylochelius"
+      },
+      {
+        "subject": "Thuridilla"
+      },
+      {
+        "subject": "Elysia"
+      },
+      {
+        "subject": "Colpodspis"
+      },
+      {
+        "subject": "Hexabranchus"
+      },
+      {
+        "subject": "Dolabella"
+      },
+      {
+        "subject": "Dolabrifera"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "marine"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

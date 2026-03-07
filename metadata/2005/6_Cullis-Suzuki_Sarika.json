@@ -1,0 +1,149 @@
+{
+  "id": "10.17913/bgtl/2005/6/Cullis-Suzuki_Sarika",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Sarika",
+        "family_name": "Cullis-Suzuki",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Are current reef fishing practices sustainable? An assessment of ongoing marine conservation efforts and management practices on the island of Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Lutjanidae"
+      },
+      {
+        "subject": "Scaridae"
+      },
+      {
+        "subject": "Serranidae"
+      },
+      {
+        "subject": "reef fish"
+      },
+      {
+        "subject": "fishing"
+      },
+      {
+        "subject": "sustainability"
+      },
+      {
+        "subject": "conservation"
+      },
+      {
+        "subject": "marine protected area"
+      },
+      {
+        "subject": "by-catch"
+      },
+      {
+        "subject": "gill net"
+      },
+      {
+        "subject": "snapper"
+      },
+      {
+        "subject": "parrotfish"
+      },
+      {
+        "subject": "grouper"
+      },
+      {
+        "subject": "Lutjanus fulvus"
+      },
+      {
+        "subject": "Lutjanus gibbus"
+      },
+      {
+        "subject": "Lutjanus kasmira"
+      },
+      {
+        "subject": "Lutjanus monostigma"
+      },
+      {
+        "subject": "Scarus psittacus"
+      },
+      {
+        "subject": "Scaru"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "marine"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

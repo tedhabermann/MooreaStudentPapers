@@ -1,0 +1,212 @@
+{
+  "id": "10.17913/bgtl/1996/11/Mayali_X",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "X.",
+        "family_name": "Mayali",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Zonation of lagoon algae in Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "1996",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1996",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "zonation"
+      },
+      {
+        "subject": "Acanthophora"
+      },
+      {
+        "subject": "Rhodomelaceae"
+      },
+      {
+        "subject": "Amphiroa"
+      },
+      {
+        "subject": "Corallinaceae"
+      },
+      {
+        "subject": "Avrainvillea"
+      },
+      {
+        "subject": "Udonteaceae"
+      },
+      {
+        "subject": "Boodlea"
+      },
+      {
+        "subject": "Siphonocladaceae"
+      },
+      {
+        "subject": "Caulerpa"
+      },
+      {
+        "subject": "Caulerpaceae"
+      },
+      {
+        "subject": "Ceramium"
+      },
+      {
+        "subject": "Ceramiaceae"
+      },
+      {
+        "subject": "Cheilosporum"
+      },
+      {
+        "subject": "Chnoospora"
+      },
+      {
+        "subject": "Chnoosporaceae"
+      },
+      {
+        "subject": "Codium"
+      },
+      {
+        "subject": "Codiaceae"
+      },
+      {
+        "subject": "Colpomenia"
+      },
+      {
+        "subject": "Scytosiphonaceae"
+      },
+      {
+        "subject": "Dictyota"
+      },
+      {
+        "subject": "Dictotaceae"
+      },
+      {
+        "subject": "Enteromorpha"
+      },
+      {
+        "subject": "Ulvaceae"
+      },
+      {
+        "subject": "Grateloupia"
+      },
+      {
+        "subject": "Cryptonemiaceae"
+      },
+      {
+        "subject": "Halimeda"
+      },
+      {
+        "subject": "Halimedaceae"
+      },
+      {
+        "subject": "Hydroclathrus"
+      },
+      {
+        "subject": "Hypnea"
+      },
+      {
+        "subject": "Hypneaceae"
+      },
+      {
+        "subject": "Padina"
+      },
+      {
+        "subject": "Rosenvingia"
+      },
+      {
+        "subject": "Sargassum"
+      },
+      {
+        "subject": "Sargassaceae"
+      },
+      {
+        "subject": "Spyridia"
+      },
+      {
+        "subject": "Ulva"
+      },
+      {
+        "subject": "algae",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "marine"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

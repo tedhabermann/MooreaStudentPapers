@@ -1,0 +1,119 @@
+{
+  "id": "10.17913/bgtl/2011/1/Ardeshiri_RoxanneS",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Roxanne S.",
+        "family_name": "Ardeshiri",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "PATTERNS OF INSECT HERBIVORY ON INDIGENOUS HIBISCUS TILIACEUS AND INTRODUCED HIBISCUS ROSA-SINENSIS ACROSS HUMAN IMPACTED AREAS IN MO'OREA, FRENCH POLYNESIA"
+      }
+    ],
+    "publicationYear": "2011",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2011",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "herbivory"
+      },
+      {
+        "subject": "insects"
+      },
+      {
+        "subject": "Hibiscus tiliaceus"
+      },
+      {
+        "subject": "Hibiscus rosa-sinensis"
+      },
+      {
+        "subject": "anthropogenic"
+      },
+      {
+        "subject": "fragmentation"
+      },
+      {
+        "subject": "Mo'orea, French Polynesia"
+      },
+      {
+        "subject": "agriculture"
+      },
+      {
+        "subject": "edge effect"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

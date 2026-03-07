@@ -1,0 +1,137 @@
+{
+  "id": "10.17913/bgtl/2003/6/Stanley_Jeffrey",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Jeffrey",
+        "family_name": "Stanley",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Attractant response, species distribition, and diurnal activity levels of mosquitos (Aedes aegypti, Aedes polynesiensis, Culex quinquefasciatus) in Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2003",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2003",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "mosquito"
+      },
+      {
+        "subject": "mosquito borne diseases"
+      },
+      {
+        "subject": "malaria"
+      },
+      {
+        "subject": "dengue fever"
+      },
+      {
+        "subject": "yellow fever"
+      },
+      {
+        "subject": "disease control"
+      },
+      {
+        "subject": "population distribution"
+      },
+      {
+        "subject": "attractants"
+      },
+      {
+        "subject": "Aedes polynesiensis"
+      },
+      {
+        "subject": "Aedes aegypti"
+      },
+      {
+        "subject": "Culex quinquefasciatus"
+      },
+      {
+        "subject": "carbon dioxide"
+      },
+      {
+        "subject": "octenol"
+      },
+      {
+        "subject": "diurnal"
+      },
+      {
+        "subject": "olfactometer"
+      },
+      {
+        "subject": "insect",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

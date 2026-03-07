@@ -1,0 +1,140 @@
+{
+  "id": "10.17913/bgtl/2002/3/Cushing_LJ",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "L. J.",
+        "family_name": "Cushing",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Epiphyte community composition on three non-native and three indigenous tree hosts"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "epiphyte"
+      },
+      {
+        "subject": "invasive species"
+      },
+      {
+        "subject": "plants"
+      },
+      {
+        "subject": "Myrtaceae"
+      },
+      {
+        "subject": "Fabaceae"
+      },
+      {
+        "subject": "Rubiaceae"
+      },
+      {
+        "subject": "Pandanaceae"
+      },
+      {
+        "subject": "Bignoniaceae"
+      },
+      {
+        "subject": "Metrosideros collina"
+      },
+      {
+        "subject": "Neonauclea forsteri"
+      },
+      {
+        "subject": "Pandanus tectorius"
+      },
+      {
+        "subject": "Paraserianthes falcatoria"
+      },
+      {
+        "subject": "Psidium cattleianum"
+      },
+      {
+        "subject": "Spathodea campanulata"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

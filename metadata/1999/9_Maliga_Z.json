@@ -1,0 +1,203 @@
+{
+  "id": "10.17913/bgtl/1999/9/Maliga_Z",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Z.",
+        "family_name": "Maliga",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The ecology of coral reef fish in the fringing reef of Haapiti, Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "1999",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1999",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "fish"
+      },
+      {
+        "subject": "Osteichthys"
+      },
+      {
+        "subject": "ecology"
+      },
+      {
+        "subject": "habitat preference"
+      },
+      {
+        "subject": "diversity"
+      },
+      {
+        "subject": "Abudefduf"
+      },
+      {
+        "subject": "Pomacentridae"
+      },
+      {
+        "subject": "Acanthurus"
+      },
+      {
+        "subject": "Aulostomidae"
+      },
+      {
+        "subject": "Bothus"
+      },
+      {
+        "subject": "Centropyge"
+      },
+      {
+        "subject": "Canthigaster"
+      },
+      {
+        "subject": "Carchahinus"
+      },
+      {
+        "subject": "Chanos"
+      },
+      {
+        "subject": "Chaetodon"
+      },
+      {
+        "subject": "Chaetodontidae"
+      },
+      {
+        "subject": "Chelon"
+      },
+      {
+        "subject": "Chlorurus"
+      },
+      {
+        "subject": "Ctenochaetus"
+      },
+      {
+        "subject": "Chromis"
+      },
+      {
+        "subject": "Dascyllus aruanus"
+      },
+      {
+        "subject": "Diodon"
+      },
+      {
+        "subject": "Dunckerocampus"
+      },
+      {
+        "subject": "Epinephelus"
+      },
+      {
+        "subject": "Epibulus"
+      },
+      {
+        "subject": "Gomphosus"
+      },
+      {
+        "subject": "Heniochus"
+      },
+      {
+        "subject": "Labroides dimidiatus"
+      },
+      {
+        "subject": "Monotaxis"
+      },
+      {
+        "subject": "Mulloidchthys"
+      },
+      {
+        "subject": "Ostracion"
+      },
+      {
+        "subject": "Parupeneus"
+      },
+      {
+        "subject": "Thalassoma hardwicke"
+      },
+      {
+        "subject": "Zanclus"
+      },
+      {
+        "subject": "Zebrasoma"
+      },
+      {
+        "subject": "fish",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "marine"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "id": "10.17913/bgtl/1998/4/Cossey_LL",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "L. L.",
+        "family_name": "Cossey",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The effects of overwater hotel bungalows on coral health and diversity on the island of Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "1998",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1998",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Moorea"
+      },
+      {
+        "subject": "French Polynesia"
+      },
+      {
+        "subject": "corals"
+      },
+      {
+        "subject": "Cnidaria"
+      },
+      {
+        "subject": "disturbance"
+      },
+      {
+        "subject": "diversity"
+      },
+      {
+        "subject": "algae"
+      },
+      {
+        "subject": "tourism"
+      },
+      {
+        "subject": "Porites"
+      },
+      {
+        "subject": "Poritidae"
+      },
+      {
+        "subject": "Fungia"
+      },
+      {
+        "subject": "Fungiidae"
+      },
+      {
+        "subject": "Favia"
+      },
+      {
+        "subject": "Faviidae"
+      },
+      {
+        "subject": "Montipora"
+      },
+      {
+        "subject": "Pocillopora"
+      },
+      {
+        "subject": "Pocilloporidae"
+      },
+      {
+        "subject": "Acropora"
+      },
+      {
+        "subject": "Acroporidae"
+      },
+      {
+        "subject": "Pavona"
+      },
+      {
+        "subject": "Agariciidae"
+      },
+      {
+        "subject": "Halimeda"
+      },
+      {
+        "subject": "Halimedaceae"
+      },
+      {
+        "subject": "Turbinaria ornata"
+      },
+      {
+        "subject": "Sargassaceae"
+      },
+      {
+        "subject": "Dictyota"
+      },
+      {
+        "subject": "Dictotaceae"
+      },
+      {
+        "subject": "Echinothrix"
+      },
+      {
+        "subject": "Valonia"
+      },
+      {
+        "subject": "Palythoa"
+      },
+      {
+        "subject": "Stephanoscyphus"
+      },
+      {
+        "subject": "Bohadschia argus"
+      },
+      {
+        "subject": "Echinometra"
+      },
+      {
+        "subject": "Diadema"
+      },
+      {
+        "subject": "Mespilia"
+      },
+      {
+        "subject": "Trochus"
+      },
+      {
+        "subject": "Holothuria atra"
+      },
+      {
+        "subject": "sea cucumbers"
+      },
+      {
+        "subject": "Echinodermata"
+      },
+      {
+        "subject": "Padina"
+      },
+      {
+        "subject": "Littorina"
+      },
+      {
+        "subject": "Zellera"
+      },
+      {
+        "subject": "Siphonium"
+      },
+      {
+        "subject": "Pardina"
+      },
+      {
+        "subject": "fish"
+      },
+      {
+        "subject": "Osteichthys"
+      },
+      {
+        "subject": "ecosystem",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

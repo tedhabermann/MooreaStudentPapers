@@ -1,0 +1,152 @@
+{
+  "id": "10.17913/bgtl/2005/3/Brewer_JenniferM",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Jennifer M.",
+        "family_name": "Brewer",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Comparison of macrofauna decomposer communities between an urban and forest environment on Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "detritivore"
+      },
+      {
+        "subject": "decomposer"
+      },
+      {
+        "subject": "tropical fruit"
+      },
+      {
+        "subject": "Annona muricata"
+      },
+      {
+        "subject": "soursop"
+      },
+      {
+        "subject": "Belvedere"
+      },
+      {
+        "subject": "Chrysophyllum cainito"
+      },
+      {
+        "subject": "star apple"
+      },
+      {
+        "subject": "Carica papaya"
+      },
+      {
+        "subject": "papaya"
+      },
+      {
+        "subject": "Musa paradisiacal"
+      },
+      {
+        "subject": "banana"
+      },
+      {
+        "subject": "Mangifera indica"
+      },
+      {
+        "subject": "mango"
+      },
+      {
+        "subject": "Ananas comosus"
+      },
+      {
+        "subject": "pineapple"
+      },
+      {
+        "subject": "urban"
+      },
+      {
+        "subject": "arthropod"
+      },
+      {
+        "subject": "larvae"
+      },
+      {
+        "subject": "Hymenoptera"
+      },
+      {
+        "subject": "invert",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}

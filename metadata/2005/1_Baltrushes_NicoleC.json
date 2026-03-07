@@ -1,0 +1,128 @@
+{
+  "id": "10.17913/bgtl/2005/1/Baltrushes_NicoleC",
+  "type": "dois",
+  "attributes": {
+    "creators": [
+      {
+        "nameType": "personal",
+        "given_name": "Nicole C.",
+        "family_name": "Baltrushes",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ]
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The ethnobotany and bioactivity of pteridophytes of Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "CopyrightYear"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
+    "contributors": [
+      [
+        {
+          "nameType": "organizational",
+          "name": "Gump South Pacific Research Station",
+          "affiliation": [
+            {
+              "name": "Gump South Pacific Research Station",
+              "affiliationIdentifier": "https://ror.org/04sk0et52",
+              "affiliationIdentifierScheme": "ROR",
+              "lang": "en"
+            }
+          ],
+          "contributorType": "Sponsor",
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://ror.org/04sk0et52",
+              "nameIdentifierScheme": "ROR"
+            }
+          ]
+        }
+      ]
+    ],
+    "subjects": [
+      {
+        "subject": "Microsorum grossum"
+      },
+      {
+        "subject": "Microsorum commutatum"
+      },
+      {
+        "subject": "Asplenium australasicum"
+      },
+      {
+        "subject": "Nephrolepis hirsutula"
+      },
+      {
+        "subject": "Davallia solida"
+      },
+      {
+        "subject": "Antrophyum plantagineum"
+      },
+      {
+        "subject": "Angiopteris evecta"
+      },
+      {
+        "subject": "Adiantum trapeziforme"
+      },
+      {
+        "subject": "Bolbitis lonchophora"
+      },
+      {
+        "subject": "Lygodium reticulatum"
+      },
+      {
+        "subject": "Lycopodiella cernua"
+      },
+      {
+        "subject": "Dicranopteri"
+      },
+      {
+        "subject": "plant",
+        "subjectScheme": "organism"
+      }
+    ],
+    "geoLocations": [
+      {
+        "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "version": 1,
+    "rightsList": [
+      [
+        {
+          "rights": "Creative Commons Attribution 4.0 International",
+          "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode",
+          "schemeUri": "https://spdx.org/licenses/",
+          "rightsIdentifier": "cc-by-4.0",
+          "rightsIdentifierScheme": "SPDX"
+        }
+      ]
+    ]
+  }
+}
