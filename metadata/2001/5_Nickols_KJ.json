@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Intraspecific interactions and population structure of the coral reef fish Thalassoma hardwicke (Bennett 1828) in Cook's Bay, Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2001",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2001",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "K. J.",
+        "family_name": "Nickols",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Intraspecific interactions and population structure are not well known for coral reef fish, especially considering the variation in social systems among each species and differences between local populations. One such social system, is that of protogynous species, in which two types of individuals exist with a species - the initial phase, composed of females and some males, and the terminal phase, composed of males that were once females. An example of a protogynous hermaphroditic species is Thalassoma hardwicke, a member of the family Labridae, which is widely distributed throughout the Indo-Pacific and found in the coral reefs of Moorea, French Polynesia. This study aims to determine if there is an underlying ratio of initial phase and terminial phase individuals that dictates the structure of the T. hardwicke population, and its behavior. Populations of T. hardwicke were studies by examining transects at fringing reefs, back reefs, and at a motu and by doing observational studies in Moorea, French Polynesia. At fringing reef and back reef sites initial phase individuals, or drabs, were more common than terminal phase individuals, or gaudies. At the motu site, however, the ratio was reversed. Certain behaviors also depended upon the life stage of the individual, with certain activities reserved fo the different stages.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Intraspecific interactions and population structure of the coral reef fish Thalassoma hardwicke (Bennett 1828) in Cook's Bay, Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2001",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2001",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -107,6 +127,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2001",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

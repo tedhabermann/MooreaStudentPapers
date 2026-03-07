@@ -28,33 +28,33 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Factors influencing the density and distribution of Cardisoma carnifex in established areas, including an assessment of burrow fidelity and a temporal survey of the road kill of Cardisoma carnifex on the island of Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "1992",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "1992",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "R.",
+        "family_name": "Denhoy",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
+      {
+        "nameType": "personal",
+        "given_name": "G.",
+        "family_name": "Battersby",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -77,35 +77,40 @@
         }
       ]
     ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": " ",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Factors influencing the density and distribution of Cardisoma carnifex in established areas, including an assessment of burrow fidelity and a temporal survey of the road kill of Cardisoma carnifex on the island of Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "1992",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1992",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
     "subjects": [
-      {
-        "subject": "Moorea"
-      },
-      {
-        "subject": "French Polynesia"
-      },
-      {
-        "subject": "crabs"
-      },
-      {
-        "subject": "Cardisoma carnifex"
-      },
-      {
-        "subject": "Geocarcinidae"
-      },
-      {
-        "subject": "distribution"
-      },
-      {
-        "subject": "habitat preference"
-      },
-      {
-        "subject": "Crustacea"
-      },
-      {
-        "subject": "invert",
-        "subjectScheme": "organism"
-      },
       {
         "subject": "Moorea"
       },
@@ -138,9 +143,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
-      },
+      }
+    ],
+    "related_identifiers": [
       {
-        "geoLocationPlace": "Terrestrial"
+        "relatedIdentifier": "ProjectIdentifierFor1992",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

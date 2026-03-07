@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Sea Urching Biomechanics: Morphological and behavioral adaptations to heavy flow conditions in Mo'orea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2012",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2012",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Amelia",
+        "family_name": "Weiss",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "This study investigates the biomechanics, behavior, and distribution of urchin species in Mo\u2019orea, French Polynesia to understand how they withstand hydrodynamic forces. Field surveys examined the flow distribution of four species: E. mathaei, Tripneustes gratilla, Diadema savignyi  and Echinotrix calamaris. Flow tests were conducted on two Echinometra mathaei  subspecies to measure spine angle under no flow and heavy flow conditions. Short spine urchin species were found in significantly higher flows than were long spine urchin species. Experimental findings revealed that E. mathaei type B temporarily adopts a more streamlined shape in response to increasing flow velocity, while E. mathaei  type A does not. Understanding the streamlining behavior and other strategies for surviving hydrodynamic conditions is necessary in order to examine these organisms\u2019 role in their environment.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Sea Urching Biomechanics: Morphological and behavioral adaptations to heavy flow conditions in Mo'orea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2012",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2012",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -92,6 +112,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2012",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

@@ -28,33 +28,33 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The shallow-water sponges of Cook's Bay, Moorea, French Polynesia: A systematic and distributional survey"
-      }
-    ],
-    "publicationYear": "1998",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "1998",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "S. K.",
+        "family_name": "Murphy",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
+      {
+        "nameType": "personal",
+        "given_name": "H. E.",
+        "family_name": "Wright",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -77,26 +77,40 @@
         }
       ]
     ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": " ",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The shallow-water sponges of Cook's Bay, Moorea, French Polynesia: A systematic and distributional survey"
+      }
+    ],
+    "publicationYear": "1998",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1998",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
     "subjects": [
-      {
-        "subject": "Moorea"
-      },
-      {
-        "subject": "French Polynesia"
-      },
-      {
-        "subject": "sponges"
-      },
-      {
-        "subject": "distribution"
-      },
-      {
-        "subject": "Porifera"
-      },
-      {
-        "subject": "invert",
-        "subjectScheme": "organism"
-      },
       {
         "subject": "Moorea"
       },
@@ -120,9 +134,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
-      },
+      }
+    ],
+    "related_identifiers": [
       {
-        "geoLocationPlace": "marine"
+        "relatedIdentifier": "ProjectIdentifierFor1998",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

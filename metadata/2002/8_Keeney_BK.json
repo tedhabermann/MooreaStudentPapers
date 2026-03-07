@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The Mechanism of Web Parasitism by Argyrodes argentatus (Araneae, Theridiidae) on Cyrtophora moluccensis (Araneae, Araneidae)"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "B. K.",
+        "family_name": "Keeney",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "In this field and laboratory experiment I investigated the mechanism of web kleptoparasitism by Argyrodes argentatus (Araneae: Theridiidae) on Cyrtophora moluccensis (Araneae, Araneidae) host webs by studying the factors that influence the kleptoparasite population. I examined natural population variations of A. argentatus that occur with (1) different host web sizes, (2) different host body sizes, (3) host behaviors and (4) whether the host was in an individual or colonial web. Results from field surveys indicate that a positive relationship exists between the average number of A. argentatus on a web and the size of host web. Field tests support that there is no relationship between average numbers of A. argentatus on a web and the host size, however, tests in the lab suggest that A. argentatus prefers C. moluccensis hosts less than 2.54 centimeters long. Significance was found between aggressive behaviors by the host C. moluccensis and host web size, as well as host body size. Host feeding behaviors and whether the hosts web was individual or in a colony also showed significance, however, results show there is no relationship between population variations of A. argentatus and C. moluccensis behaviors. The numbers of A. argentatus on colonial host webs as opposed to individual host webs showed significant differences. These results show that web kleptoparasitism by A. argentatus on C. moluccensis is influenced by host web size, host body size and whether the host is in an individual web or a colony, however it is not explained by any one of these factors. The interaction results from a variety of factors working together which produce the parasite distributions and population characteristics observed.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The Mechanism of Web Parasitism by Argyrodes argentatus (Araneae, Theridiidae) on Cyrtophora moluccensis (Araneae, Araneidae)"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -107,6 +127,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

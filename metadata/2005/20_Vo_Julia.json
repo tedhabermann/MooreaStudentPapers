@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The characteristics of hermit crab populations and shell availability on Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Julia",
+        "family_name": "Vo",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "<P class=MsoNormal style=",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The characteristics of hermit crab populations and shell availability on Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -89,6 +109,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

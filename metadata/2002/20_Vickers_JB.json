@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The Distribution of skinks (Sauria, Scincidae) within the habitats of Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "J. B.",
+        "family_name": "Vickers",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "The introduced skinks (Sauria, Scincidae) of Moorea, French Polynesia are unevenly distributed within the island\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5s major habitats. In a four-week study, October 22 to November 18, 2002, a total of 369 skinks, including three species, (Emoia cyanura, E. impar and Lipnia noctua) and one melanistic morph of Emoia, were found to coexist in different proportions through coastal, residential, mountain forest and summit forest habitats. An overlap of species in each of the habitats suggests the speices are partitioning microhabitats within the vegetation zones. The mechanism behind the partitioning, whether it is due to abiotic preferences or species interactions, is not known.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The Distribution of skinks (Sauria, Scincidae) within the habitats of Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -98,6 +118,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

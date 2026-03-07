@@ -28,33 +28,33 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "A comparison of the effects of agriculture and development on two bays in Moorea, French Polynesia and the effects of a water outflow on a nearshore coral community"
-      }
-    ],
-    "publicationYear": "1992",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "1992",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "S.",
+        "family_name": "London",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
+      {
+        "nameType": "personal",
+        "given_name": "L.",
+        "family_name": "Tucker",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -77,59 +77,40 @@
         }
       ]
     ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": " ",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "A comparison of the effects of agriculture and development on two bays in Moorea, French Polynesia and the effects of a water outflow on a nearshore coral community"
+      }
+    ],
+    "publicationYear": "1992",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1992",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
     "subjects": [
-      {
-        "subject": "Moorea"
-      },
-      {
-        "subject": "French Polynesia"
-      },
-      {
-        "subject": "agriculture"
-      },
-      {
-        "subject": "corals"
-      },
-      {
-        "subject": "Cnidaria"
-      },
-      {
-        "subject": "disturbance"
-      },
-      {
-        "subject": "riparian"
-      },
-      {
-        "subject": "sedimentation"
-      },
-      {
-        "subject": "Opunohu Bay"
-      },
-      {
-        "subject": "Cook's Bay"
-      },
-      {
-        "subject": "stream"
-      },
-      {
-        "subject": "discharge"
-      },
-      {
-        "subject": "Fungiidae"
-      },
-      {
-        "subject": "Pocilloporidae"
-      },
-      {
-        "subject": "Acroporidae"
-      },
-      {
-        "subject": "Poritidae"
-      },
-      {
-        "subject": "ecosystem",
-        "subjectScheme": "organism"
-      },
       {
         "subject": "Moorea"
       },
@@ -186,9 +167,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
-      },
+      }
+    ],
+    "related_identifiers": [
       {
-        "geoLocationPlace": "Terrestrial"
+        "relatedIdentifier": "ProjectIdentifierFor1992",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "A COMPARISON OF BELOWGROUND AND ABOVEGROUND ANTIMICROBIAL ACTIVITY IN HIBISCUS TILIACEUS, HIBISCUS \r\nROSA-SINENSIS AND THESPESIA POPULNEA AND ITS CORRELATION WITH ROOT DECOMPOSITION AND SOIL NUTRIENT CONTENT IN MOOREA, FRENCH POLYNESIA"
-      }
-    ],
-    "publicationYear": "2013",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2013",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Rubi",
+        "family_name": "Galarza",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,32 @@
           ]
         }
       ]
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "A COMPARISON OF BELOWGROUND AND ABOVEGROUND ANTIMICROBIAL ACTIVITY IN HIBISCUS TILIACEUS, HIBISCUS \r\nROSA-SINENSIS AND THESPESIA POPULNEA AND ITS CORRELATION WITH ROOT DECOMPOSITION AND SOIL NUTRIENT CONTENT IN MOOREA, FRENCH POLYNESIA"
+      }
+    ],
+    "publicationYear": "2013",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2013",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -89,6 +102,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "terrestrial "
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2013",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

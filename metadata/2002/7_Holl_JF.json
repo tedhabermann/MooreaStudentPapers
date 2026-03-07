@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The Bioactivity and Ethnobotany of Lichens, Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "J. F.",
+        "family_name": "Holl",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Based on previous findings of bioactivity in lichens and documented ethnomedical use in other parts of the world, information on the ethnobotany and bioactivity of the lichens of the Society Islands was sought on the islands of Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea and Tahiti. Approximately 25 species of lichens were collected. Twelve of these species were presented in interviews with indigenous people to gain information on ethnotaxonomy and traditional medicinal uses. Six of the lichens were tested for antimicrobial activity using Streptococcus thermophilus and Lactobacillis bulgaricus and for cytotoxicity using Artemia salina. One to two general Ma\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5ohi (Tahitian language) names are used for the lichens, based on gross morphology, but two specialized names are used for the species ?Parmeliella brisbanensis depending on the age of the specimen. Two species of Ramalina and two species of Usnea are used to treat internal tumors and all four of these species tested significantly cytotoxic. ?Parmeliella brisbanensis, ?Siphula sp., and Cladonia subsquamosa are used to treat infected wounds and ulcers, however these lichens were not included in the antimicrobial tests because the ethnobotanical information was late in coming. No antimicrobial activity was shown for those lichens tested. Most of the ethnotaxonomic data, and all of the ethnomedical data came from the islands of Huahine, Taha\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5a, and the Australs. The ethnobotanical knowledge of the lichens on Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea and Tahiti is fragmentary, which may be the result of regional differences, higher levels of occidental cultural influence on Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea and Tahiti, and/or stricter application of colonial laws forbidding Ma\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5ohi language and medical practice in the islands.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The Bioactivity and Ethnobotany of Lichens, Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -116,6 +136,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

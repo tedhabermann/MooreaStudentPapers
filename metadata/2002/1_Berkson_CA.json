@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Coral and invertebrate recruitment patterns in Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "C. A.",
+        "family_name": "Berkson",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Coral reefs display a considerable spacio-temporal variability, which makes their species composition, age structure, reproduction and recovery from disturbance very difficult to predict. Coral reefs world-wide are becoming increasingly threatened by natural and anthropogenic impacts, and due to their enormous importance as a natural resource, increased knowledge of reefs' reproductive biology is necessary for proper management and restoration. The objectives of this study were to document patterns of coral and invertebrate recruitment to artificial substrata (unglazed ceramic tiles) in Moorea, French Polynesia and to determine if there is any effect of site, depth and/or grazing on recruitment. Four sites were tested, characterizing the two bays, back-reef and fore-reef habitats, as well as two depths at each site (15 & 40 ft.). At each site and depth there were three tiles covered by a wire mesh cage and three left uncaged to describe the herbivory effects on recruitment. A total of 9 coral recruits comprising two families, Pocilloporidae and Acroporidae, were found on 42 tiles in one month. No significant relationships between site, depth, and caged/uncaged were found for acropora recruits. For pocillopora recruits, a significant site effect was revealed (p=0.029), as well as a nearly significant caging effect (p=0.055). A significant effect of depth on pocillopora recruits was found, as well as a significant interaction between site and depth, revealed by a 2-way ANOVA (p=0.029). Invertebrate recruits were grouped into functional taxa- bivalves, tube-dwelling polychaetes, encrusting sponges and tunicates. Significant site effects were found for bivalves, porifera and bryozoans. Significant depth effects were found for bivalves, tunicates and polychaetes. Significant caging effects were found for bryozoans, tunicates and polychaetes.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Coral and invertebrate recruitment patterns in Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -101,6 +121,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

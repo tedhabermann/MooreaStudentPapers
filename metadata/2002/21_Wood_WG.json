@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Substrate Preference at Settlement and Metamorphosis in the Larvae of Two Sympatric Species of Pullosquilla, a Lysiosquilloid Stomatopod Crustacean from Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "W. G.",
+        "family_name": "Wood",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Where an organism chooses to live plays an important role for the completion of its life cycle. The choice in adult habitat of marine invertebrates usually relies upon their larvae form. Many larvae are known to locate an ideal habitat using environmental cues. Some of these cues can be due to substrate preference. In this study, two species of stomatopod crustaceans of the genus Pullosquilla (thomassini and litoralis) living sympatrically in reef waters around the island of Moorea, French Polynesia were used. Previous studies have shown that P. thomassini are in deeper, fine sand habitats of the lagoon while P. litoralis are in shallow course sand habitats of the lagoon. Larvae from each species were individually tested for preference to settle and metamorphose when given choice of two different sand types that represent the adult habitats. Adults were collected from the reef to see which species preferred which habitat. Results show the larvae of P. thomassini prefer fine sand only (p = .002) which correlated with zero adults collected from the coarse sand habitat. The larvae of P. litoralis showed no preference of sand to settle and metamorphose (p = .371), which correlated with the adults collected from the field. Adult Pullosquilla of both species were tested for sand preference and did not show a significant difference from the larval choice (p > .05) but could be biased due to low trial size (n = 8). These findings demonstrate that it is the larvae of Pullosquilla that are making habitat choice to settle and metamorphose.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Substrate Preference at Settlement and Metamorphosis in the Larvae of Two Sympatric Species of Pullosquilla, a Lysiosquilloid Stomatopod Crustacean from Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -101,6 +121,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

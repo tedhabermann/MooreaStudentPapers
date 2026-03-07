@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Behavioral partitioning by Polynesian cleaner wrasses, Labroides dimidiatus, (Val en Ciennes, 1839) and Labroides bicolor (Fowler & Bean, 1928) along fringing reef walls of Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2001",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2001",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "B. J.",
+        "family_name": "Forest",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "The client solicitation behavior employed by cleaner wrasses (Labroides dimidiatus and L. bicolor) in French Polynesia was studied to determine its role in partitioning the resources available to these specialized microcarnivores. Field observations were made on fringing reef walls of the north and east coasts of Morea with times recorded for each of four client acquisition behaviors. Cluster analysis of these behaviors revealed two behavioral size classes for each species (< 5 cm, and 5 cm and larger) and these groups were shown to allocate significantly different portions of their time to three of four client solicitation behaviors. Additional results showed a trend towards the enhancement of each species-size class group's preferred behavior in the presence of another cleaner, though insufficient replication failed to reveal significant changes. This study shows that behavioral differences in solicitation behaviors may contribute to the ecological partitioning of clients on Moorea and other situations of high competition.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Behavioral partitioning by Polynesian cleaner wrasses, Labroides dimidiatus, (Val en Ciennes, 1839) and Labroides bicolor (Fowler & Bean, 1928) along fringing reef walls of Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2001",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2001",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -104,6 +124,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2001",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

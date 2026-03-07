@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Factors influencing distribution patterns of epiphyll colonization and herbivory on decaying populations of the invasive species Psidium guajava"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Sarah I.",
+        "family_name": "Daniels",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Presence of one invasive species can facilitate the presence of other introduced or invasive species within a community, the presence of this secondary growth, can become a resource for further propagation by other nonindigenous species. This landslide of positive effects can be disparaging for native species within the same community. On the island of Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea, French Polynesia, the distribution of introduced epiphyte species living on the leaves of a dying Psidium guajava population is observed for different patterns of growth according to plant age and location within a privately-owned garden. The introduced scarab beetles, responsible for eating guava leaves within the garden, were also studied to see if the degree of foliage consumption was dependent upon the amount of any epiphytic coverage, and if so, which epiphyte. Amount of each species on each leaf and the number of herbivore bite-mark holes were scored as ratio of area of epiphyte coverage to total leaf area. Significant differences in abundance of each epiphyte were found among the four locations in the garden and among different tree sizes. Field and experimental studies were executed to deduce which epiphytic coverage, if any, the herbivores prefer. Field studies showed no positive correlation between any epiphytic coverage and greater number of herbivore bite marks. However, laboratory experimental studies provided evidence that leaves with 100% coverage of a particular orange bryophyte were eaten the most by the scarab beetles. (As an aside, one of the three epiphytes was identified as a saprophytic sooty mold\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00c6an agricultural hazard. This fungus was more closely investigated for an ecologically green method of removal.)",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Factors influencing distribution patterns of epiphyll colonization and herbivory on decaying populations of the invasive species Psidium guajava"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -128,6 +148,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

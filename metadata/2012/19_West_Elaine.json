@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Adaptive regeneration of Ophicoma scolopendrina (Echinodermata: Ophiuroidea) under two feeding treatments in Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2012",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2012",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Elaine",
+        "family_name": "West",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Regeneration is common amongst all classes of echinoderms and is easily studied in the laboratory with abundant and tractable ophiuroid specimens. However, ophiuroid regeneration rates, both between species and within the same species, can exhibit uncommonly high variation even under identical laboratory conditions. Eighty four Ophiocoma scolopendrina  (Lamarck 1816), a brittle star which extends its arms out into the water column to suspension feed, were collected from the upper-intertidal zone of rocky beaches on the island of Moorea, French Polynesia for laboratory regeneration experiments. To determine the effects of position of autotomy and feeding level on regenerated length and differentiation of new biomass, two treatments were performed: an amputation treatment either 5 mm from the central disk or 30 mm from the distal tip; and a feeding treatment of high-food or low-food. Additionally, a field survey was conducted to assess predation pressure and autotomy of O. scolopendrina  in upperintertidal zones. This study demonstrated that O. scolopendrina  are well adapted to the high levels of sub-lethal predation at the arm tips by quickly resuming the ability to detect predators via photo and chemoreception. The results of this investigation can help to better inform calculations of energy cycling in ecosystems and has potential applications for further research on the connections between ophiuroid life-history and predation pressure on variable regeneration rates",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Adaptive regeneration of Ophicoma scolopendrina (Echinodermata: Ophiuroidea) under two feeding treatments in Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2012",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2012",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -98,6 +118,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2012",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

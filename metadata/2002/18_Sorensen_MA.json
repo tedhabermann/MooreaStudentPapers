@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Flower Visitors of Metrosideros collina (Myrtaceae) on Moorea"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "M. A.",
+        "family_name": "Sorensen",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Island ecosystems are fragile assemblages of unique organisms. Moorea is such an assemblage, with many unique plants, animals, and species interactions. However, like many islands Moorea is increasingly inhabited by invasive species that compete with and often drive to extinction the native species. The indigenous tree Metrosideros collina has small red bottlebrush flowers grouped in inflorescences of approximately 10-20 flowers. Red color, abundant nectar, and an open shape are thought to be characters of bird pollinated flowers, and indeed in Hawaii and New Zealand Metrosideros species have been shown to be bird pollinated. On Moorea the pollinators of M. collina have been little studied. Through observation this study found that M. collina on Moorea is visited most often by European honeybees (Apis mellifera) and white-eye birds, and is additionally visited by three species of wasp, two species of butterfly, a skink lizard. Many specimens were captured and analyzed for pollen presence. M. collina flowers are generalist, offering nectar and pollen rewards accessible to many nectivorous animals. A generalist strategy facilitates both colonization of new islands and persistence on islands with high rates of species turnover. Future study could investigate pollinator efficiency and pollinator community composition over an elevation gradient.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Flower Visitors of Metrosideros collina (Myrtaceae) on Moorea"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -119,6 +139,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

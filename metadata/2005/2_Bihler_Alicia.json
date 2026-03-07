@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Habitat selection and spatial distribution of two fiddler crab species (Uca crassipes and Uca tetragonon)"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Alicia",
+        "family_name": "Bihler",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Uca crassipes (Adams and White, 1848) and Uca tetragonon (Herbst, 1790) are the only two fiddler crab species found in Moorea. I want to address the question of natural zonation along the intertidal gradient, as a means of understanding habitat selection in these two species. Sampling took place at four mudflat intertidal zones in Moorea via randomly determined transects with 0.25m2 quadrats. Number and species was counted, as well as percent vegetation cover. Soil samples were collected from each quadrat and analyzed for particle size. U. crassipes has a strong non-random spatial arrangement. Through ANOVA analysis (significant with p<0.05) these crabs were shown to occur predominantly at elevations marked by plots 7 and 8. These results support that which was suggested by Ens and Klaassen in 1993 in the fiddler crab U. tangeri. The crabs prefer a higher elevation along the tidal gradient for their burrow location.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Habitat selection and spatial distribution of two fiddler crab species (Uca crassipes and Uca tetragonon)"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -98,6 +118,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

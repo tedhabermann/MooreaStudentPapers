@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Are current reef fishing practices sustainable? An assessment of ongoing marine conservation efforts and management practices on the island of Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Sarika",
+        "family_name": "Cullis-Suzuki",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "The decrease of fish catches is occurring on a global scale. The need for effective regulations and realistic management goals is becoming more urgent if sustainable fishing is to be attained. This study focuses on the island of Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea in French Polynesia and assesses the state of its current reef fishing practices and management efforts. Research focused on three aspects. Firstly, population abundance of three commonly eaten and sold reef fish families (lutjanids, scarids and serranids) at three differently regulated zones around the island: a marine protected area, an area regulated by size restriction and a non-regulated zone. Results illustrate significant differences in abundance for each fish family depending on site. Secondly, bycatch survival rates of lutjanids were monitored by using two methods of capture: hand-line caught fish and gill-net caught fish. Results show a significant difference in mortality rates depending on method of capture: gill-net caught snapper were more likely to die than hand-line caught snapper. Lastly, a survey was conducted within the fishing community to assess their current awareness of fishing regulations and willingness and ability to abide by them. Results show fisher people have witnessed a decline in fish within their lifetimes. Results also suggest an increased communication between management officials and fisher people would increase effectiveness of current regulations and marine protected areas on Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Are current reef fishing practices sustainable? An assessment of ongoing marine conservation efforts and management practices on the island of Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -131,6 +151,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

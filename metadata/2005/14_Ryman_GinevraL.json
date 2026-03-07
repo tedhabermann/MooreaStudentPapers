@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Keeping an eye on your neighbor: Territoriality and home ranges in jumping spiders"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Ginevra L.",
+        "family_name": "Ryman",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Territoriality plays an important role in structuring populations, but relatively little is known about the territoriality of jumping spiders (Araneae: Salticidae). Jumping spiders are charismatic and unique spiders, with their large median eyes, excellent vision, and adaptable predatory strategies. Since they do not spin webs to catch their prey it is more challenging to directly observe territorial behaviors. This study investigates the territoriality of Thorelliola ensifera on the large tree fern Angiopteris evecta. Field observations showed females to have a much smaller home range than males who moved large distances in search of receptive females. Females may exhibit stronger site fidelity once they have laid eggs, and remain close to them until they hatch. In a system where a male\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5s lifestyle emphasizes courtship and searching for females, silk draglines may prove a useful method of locating a mate. In a series of laboratory experiments, I tested whether the presence of silk from the opposite sex significantly altered behavior compared to silk from an animal of the same sex. The results showed no significant difference in behavior in either males or females. While chemicals in silk may still play a role in mate location, visual cues remain important to this highly visual animal.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Keeping an eye on your neighbor: Territoriality and home ranges in jumping spiders"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -110,6 +130,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

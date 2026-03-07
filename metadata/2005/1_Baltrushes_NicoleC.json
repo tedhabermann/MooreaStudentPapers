@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The ethnobotany and bioactivity of pteridophytes of Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Nicole C.",
+        "family_name": "Baltrushes",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Humans for millennia have utilized secondary compounds, which are developed by plants in response to herbivory. The plants that have these toxic properties are often important to traditional cultures and are a possible resource for the development of medicines for the rest of the world. Pteridophytes are a diverse and abundant group whose secondary chemistry is still largely unknown. This study investigates the bioactivity of pteridophytes on Moorea, French Polynesia using bioassays for pesticidal potential, cytotoxicity and antifungal activity. Ethnobotanical information about the medicinal uses of the ferns analyzed was also collected and compared to the assay results. Eight of the twelve ferns analyzed were significantly more bioactive than the negative controls in at least one of the bioassays. Ethnobotanical information revealed variability in knowledge and use between healers. The bioactivity of these ferns along with the insect damage results suggests, though further research is needed, that ferns may have evolved under similar herbivorous constraints to angiosperms",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The ethnobotany and bioactivity of pteridophytes of Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -110,6 +130,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

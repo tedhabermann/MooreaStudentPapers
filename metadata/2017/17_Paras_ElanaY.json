@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "COMPARISON OF THE THERMOREGULATORY BEHAVIORS AND HABITAT PREFERENCES OF TWO CRYPTIC SKINK SPECIES (EMOIA IMPAR AND EMOIA CYANURA) IN MOOREA, FRENCH POLYNESIA"
-      }
-    ],
-    "publicationYear": "2017",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2017",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Elana Y.",
+        "family_name": "Paras",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,32 @@
           ]
         }
       ]
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "COMPARISON OF THE THERMOREGULATORY BEHAVIORS AND HABITAT PREFERENCES OF TWO CRYPTIC SKINK SPECIES (EMOIA IMPAR AND EMOIA CYANURA) IN MOOREA, FRENCH POLYNESIA"
+      }
+    ],
+    "publicationYear": "2017",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2017",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -101,6 +114,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2017",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

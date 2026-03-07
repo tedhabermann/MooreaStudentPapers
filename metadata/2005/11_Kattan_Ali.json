@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The effects of herbivory on algal succession on dead coral substrate"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Ali",
+        "family_name": "Kattan",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "The herbivorous effects and presence of fish and urchins, Diadema savignyi and Echinometra mathaei, on dead coral substrates was studied on the island Moorea in French Polynesia. Two separate studies were designed to observe predator effects on algal succession on coral substrate. Herbivore exclusion cages were designed to test the effects on algal succession on two dead coral substratres, Acropora hyacythus and Pocillopora verrucosa. Five different treatments were observed for percent coverage of algal growth and data was recorded 6 times over a 31-day period. Growth of filamentous algae, Polysiphonia scopulorum, was seen growing the ninth day of treatment in all designs. Significant differences in coverage of types of algae were not observed until day 27 of the study. Significant differences were shown between the caged Diadema treatment and closed cage treatment in percent coverage of fleshy algae on corals. Herbivory and presence of urchins showed greater effects on algal succession than that of fish. Algae were sampled and identified to create a diagram of algal succession on both coral substrates over study period. Transects were established at two sites to determine types of algal growth in relation to the density of urchins per unit area. Transect data showed correlations between high urchin density and high percent coverage of filamentous and low percent coverage of fleshy algae. Transect results supported findings in cage experiments showing that urchin species are vital to maintaining balance in reef ecosystems by halting succession of macro-algal dominance.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The effects of herbivory on algal succession on dead coral substrate"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -125,6 +145,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

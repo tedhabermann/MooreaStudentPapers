@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The re-infection of bleached Fungia sp. corals using Zooxanthellae extracted from corals of various families and depths"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "G. S.",
+        "family_name": "Mendez",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Corals belonging to the subgenus Fungia were experimentally bleached and experimentally re-infected with zooxanthellae extracted from corals of various families and depths, to investigate species and habitat specificity between symbiotic dinoflagellates (zooxanthellae) and bleached adult corals. This study is the first to experimentally re-infect bleached corals. Thirty-two Fungia corals were bleached using a combination of elevated water temperature and high intensity light. Bleached corals were divided into four treatment groups that were subjected to repeated inoculations of zooxanthellae extracted from donor corals of like and different depths and families. Statistical analysis of data, obtained using a novel method of quantification involving digital imaging, found significant differences in the rates of re-infection between treatment groups. Zooxanthellae extracted from corals of the same subgenus were better able to infect bleached corals than were zooxanthellae extracted from dissimilar genera. In addition, no difference was found between the re-infection rates of bleached corals treated with zooxanthellae extracted from different depths. Lastly a novel means of quantification involving the use of digital imaging and analysis of images in Adobe Photoshop\u201a\u00c4\u00f6\u221a\u00eb\u00ac\u00a2 was created in order to measure the rate of re-infection in bleached coral tissues.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The re-infection of bleached Fungia sp. corals using Zooxanthellae extracted from corals of various families and depths"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -140,6 +160,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

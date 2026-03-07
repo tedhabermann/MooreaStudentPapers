@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Epiphyte community composition on three non-native and three indigenous tree hosts"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "L. J.",
+        "family_name": "Cushing",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "I examined the epiphyte community composition on the three indigenous trees Metrosideros collina (Myrtaceae), Neonauclea forsteri (Rubiaceae), and Pandanus tectorius (Pandanaceae) and the three non-native tree species Paraserianthes falcatoria (Fabaceae), Psidium cattleianum (Myrtaceae), and Spathodea campanulata (Bignoniaceae) on the island of Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea, French Polynesia. Host characteristics hypothesized to relate to epiphyte abundance were also examined. Paraserianthes and Psidium were found to support less epiphyte cover overall. Epiphyte community composition was distinct between host species, and Metrosideros and Neonauclea support significantly more cover and richness of vascular species than the other trees. These two species also have higher percent cover of loose flaking bark and high bark water-absorption capacity, suggesting that bark stability and moisture content are important for vascular epiphytes. These results suggest that invasion by non-native trees has implications for epiphyte conservation, and consequences will likely be specific to the tree species.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Epiphyte community composition on three non-native and three indigenous tree hosts"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -122,6 +142,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

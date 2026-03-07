@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Comparison of macrofauna decomposer communities between an urban and forest environment on Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Jennifer M.",
+        "family_name": "Brewer",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "This study was conducted on Moorea, French Polynesia to investigate the contrasting arthropod decomposition communities in a forest and urban habitat. Decomposition substrate consisted of six species of tropical fruit to additionally observe whether arthropods exhibit food specificity. After one month of daily observation, the results showed significant differences in the abundance of Hymenoptera, Diptera, Diptera larvae, Diplopoda, Dermaptera, Isopoda, and Coleoptera between the two locations, Gump and Belvedere. In addition, mean numbers of individuals of several taxa varied significantly among fruit species. Also, Diplopoda and Isopoda were found in disproportionate numbers on sour sop, and Dermaptera were found significantly more on sour sop and star apple. The significant difference in decomposition communities between the two locations could be an indicator of merely contrasting habitats or the effect of urban development on arthropod niches. Based on observation, fruit specificity exhibited by some arthropod taxa appears to be most likely related to external fruit morphology, though chemical makeup of the fruit is a possibility. On an island where the vast majority of arthropod species are nonnative, it is interesting to see how decomposition communities are set up in varying environments. Further studies on the efficiency of these communities compared with native decomposers would investigate a more pressing question of how nonnative species and species richness affect ecosystem function (Bjelke, Herrmann, 2005).",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Comparison of macrofauna decomposer communities between an urban and forest environment on Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -134,6 +154,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

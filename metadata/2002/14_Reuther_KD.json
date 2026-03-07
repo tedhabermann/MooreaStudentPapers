@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Size, Gender, and Coloration Effects on Territorial Behavior in the Amphidromous Goby Sicyopterus pugnans"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "K. D.",
+        "family_name": "Reuther",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "This study explored factors that confer territorial superiority in the amphidromous goby Sicyopterus pugnans. Heavier fish and males exhibit a higher frequency of aggressive behavior than lighter opponents and females, respectively. Physiological color changes convey information regarding the status of potential combatants. Experimental pairs of fish fought over a single shelter in freshwater tank. Records of passive and aggressive behaviors and time spent inside shelter were kept. Field observations in pools of the Opunohu River, Moorea, French Polynesia elicited distribution, coloration, and attack frequencies of Sicyopterus taeniurus and S. pugnans. While both species are algal grazers and do not spatially segregate, only male S. pugnans protects open territories. Female S. pugnans and large S. taeniurus individuals protect crevices and defend against aggressive attacks. In S. pugnans, presence of a horizontal stripe in females, an eye bar, and posterior vertical bars indicate aggressive dominance. A stripe above the mouth, loss of dominant coloration, and dorsal mottling indicate alarmed or submissive individuals. Coloration signals provide an energetically cheap and quick method of conveying information to potential opponents, thus preventing unnecessary injury and energy loss. Pools were located upstream from a weir that prevented the infiltration of Anguilla marmorata, A. obscura, Kuhlia marginata, and Tilapia mossambica. Low species diversity provided an environment absent of intense predation and interspecific competition. Increased population density and interactions between S. pugnans and S. taeniurus elucidate implications on distributional and behavioral theories of amphidromous fishes.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Size, Gender, and Coloration Effects on Territorial Behavior in the Amphidromous Goby Sicyopterus pugnans"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -110,6 +130,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The relationship between a parasite and its host: an investigation of Cassytha filiformis (Lauraceae) and Pemphis acidula on Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Sara",
+        "family_name": "Lopus",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "The relationship between Pemphis acidula, a parasitic angiosperm, and Cassytha filiformis was investigated on the Tiahura Motu, Moorea, French Polynesia. Comparisons were made between the architectural structure, resource allocation, and germination rates of parasitized and unparasitized plants. Parallel comparisons were made between parasitized and unparasitized branches on parasitized plants. Parasitized Pemphis had larger branches, thinner leaves, more mature fruits, and higher germination rates than did unparasitized plants; within parasitized plants, parasitized branches exhibited significant differences in all those categories in comparison with unparasitized branches. These indicators of improved fitness of parasitized over unparisitized individuals could be a result of selection by the parasite for resource-rich host plants. It is also possible that the relationship between Cassytha and Pemphis has evolved over time to be one of commensalism rather than parasitism.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The relationship between a parasite and its host: an investigation of Cassytha filiformis (Lauraceae) and Pemphis acidula on Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -92,6 +112,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

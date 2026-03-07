@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The feeding ecology of Tetragnatha maxillosa (Araneae: Tetragnathidae) on Moorea, Society Islands, French Polynesia"
-      }
-    ],
-    "publicationYear": "2001",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2001",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "H.",
+        "family_name": "Thomas",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "The feeding ecology of the long-jawed spider Tetragnatha maxillosa was examined in a four part study addressing habitat distribution, web characteristics, prey and web site movement. Habitat distribution observations showed spiders built webs primarily on Hibiscus and on rocks over reaches of riffle in streams sampled at six sites. Web measurements and observations revealed mature spiders built larger webs slightly closer to the stream water's surface than those of immature spiders and that webs of larger size had more radii. A mark-recapture study showed infrequent movement over distances averaging less than 1 meter. Insect sampling was conducted to provide a general description of prey availability over water in the riparian feeding environment and showed that although insects collected from the webs and the environment were all families of Diptera, the insects found in the jaws of T. maxillosa were specifically of the family Simuliidae (blackflies). This suggests there may be a strong predator-prey relationship between T. maxillosa and this family of flies that are considered pests in French Polynesia.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The feeding ecology of Tetragnatha maxillosa (Araneae: Tetragnathidae) on Moorea, Society Islands, French Polynesia"
+      }
+    ],
+    "publicationYear": "2001",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2001",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -110,6 +130,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2001",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

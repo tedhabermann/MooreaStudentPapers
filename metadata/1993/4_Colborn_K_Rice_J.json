@@ -28,33 +28,33 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Islands within the sea: the theory of coralline boulder biogeography"
-      }
-    ],
-    "publicationYear": "1993",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "1993",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "K.",
+        "family_name": "Colborn",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
+      {
+        "nameType": "personal",
+        "given_name": "J.",
+        "family_name": "Rice",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -77,92 +77,40 @@
         }
       ]
     ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": " ",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Islands within the sea: the theory of coralline boulder biogeography"
+      }
+    ],
+    "publicationYear": "1993",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "1993",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
     "subjects": [
-      {
-        "subject": "Moorea"
-      },
-      {
-        "subject": "French Polynesia"
-      },
-      {
-        "subject": "corals"
-      },
-      {
-        "subject": "Cnidaria"
-      },
-      {
-        "subject": "distribution"
-      },
-      {
-        "subject": "fossil"
-      },
-      {
-        "subject": "diversity"
-      },
-      {
-        "subject": "Crustacea"
-      },
-      {
-        "subject": "oligochaete"
-      },
-      {
-        "subject": "Bivalvia"
-      },
-      {
-        "subject": "polychaete"
-      },
-      {
-        "subject": "Echinodermata"
-      },
-      {
-        "subject": "Sipuncula"
-      },
-      {
-        "subject": "Brachiopoda"
-      },
-      {
-        "subject": "Osteichthys"
-      },
-      {
-        "subject": "Gastropoda"
-      },
-      {
-        "subject": "snails"
-      },
-      {
-        "subject": "Ophiuroidea"
-      },
-      {
-        "subject": "Porifera"
-      },
-      {
-        "subject": "sponges"
-      },
-      {
-        "subject": "Turbellaria"
-      },
-      {
-        "subject": "Echiura"
-      },
-      {
-        "subject": "Cephalopoda"
-      },
-      {
-        "subject": "Anthozoa"
-      },
-      {
-        "subject": "Holothuria"
-      },
-      {
-        "subject": "sea cucumbers"
-      },
-      {
-        "subject": "Nemertea"
-      },
-      {
-        "subject": "plant",
-        "subjectScheme": "organism"
-      },
       {
         "subject": "Moorea"
       },
@@ -252,9 +200,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
-      },
+      }
+    ],
+    "related_identifiers": [
       {
-        "geoLocationPlace": "Terrestrial"
+        "relatedIdentifier": "ProjectIdentifierFor1993",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

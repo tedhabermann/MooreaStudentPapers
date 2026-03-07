@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Factors influencing the grouping behavior of the spider Pholcus ancoralis (Araneae: Pholcidae)"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "M. C.",
+        "family_name": "Ochomogo",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "ABSTRACT. Many behavioral models are based on the premise that animals should avoid the presence of competing individuals. Although spiders are territorial by nature, some species of spiders are known to live in groups. This investigation studies solitary versus grouped distributions of the sheet-weaving spider Pholcus ancoralis (Araneae: Pholcidae) on the island Moorea, French Polynesia. The study focuses on five potential causal factors of grouping: habitat, prey capture, egg protection, spider size, and substrate on which the webs were constructed. The results of a habitat sampling demonstrated that habitat, prey capture, and egg protection did not have a significant influence on the solitary versus grouped distribution of spiders. Size of spider showed significance in grouping distributions. Large spiders (0.8-0.9cm) on average were found more often in groups while small spiders (<0.5 cm) were more often solitary. Spiders were also captured, marked, and released to test if individuals showed a preference for solitary versus grouped living. Released spiders more often formed groups on Inocarpus fagifera trunks, rocks, and Angiopteris ferns, while spiders on leaves and branches were more likely to be solitary. Solitary or grouped behavior prior to capture was not a good predictor for whether spiders would be solitary or grouped post-release.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Factors influencing the grouping behavior of the spider Pholcus ancoralis (Araneae: Pholcidae)"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -119,6 +139,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

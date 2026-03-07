@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Understanding drivers of diversity: an investigation of color morphs in the giant clam Tridacna maxima"
-      }
-    ],
-    "publicationYear": "2013",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2013",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Cassandra L.",
+        "family_name": "Stegall",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -65,6 +52,39 @@
         }
       ]
     ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "This study investigates the role of color morphs of the giant clam, Tridacna maxima, in Moorea, French Polynesia to determine if color polymorphism (morphs) possess a beneficial adaptation. Environmental factors were observed through field surveys to determine if they benefit certain color morphs. No environmental factors were deemed preferential. However, the adaptation of cryptic coloration pertains to color morphs as the clam R, G, and B color values correlate to the substrate R, G, and B color values. Additionally, color was analyzed on multiple levels to compare cryptic ability amongst color morphs. A more adapted color morph was identified and this finding is further paralleled in results on abundance and size distribution throughout the population. Understanding the selective pressures that cause for phenotypic diversity allows insight into conservation and how human actions can either drive or stabilize the gene pools of organisms. ",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Understanding drivers of diversity: an investigation of color morphs in the giant clam Tridacna maxima"
+      }
+    ],
+    "publicationYear": "2013",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2013",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
+    ],
     "subjects": [
       {
         "subject": "color morph"
@@ -86,6 +106,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2013",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Salinity level contributions to bleaching and distribution of corals in Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2001",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2001",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "B.",
+        "family_name": "Lindsey",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Samples of Pocillopora verrucosa and P. damecornis from inside and outside Pao Pao Bay in Moorea, French Polynesia were tested experimentally for their tolerances of salinity changes. Statistical significance was found for coral sample response to altered salinities, but no statistical significance was found for influence of sample source location on bleaching tolerances was not found to be significant. In addition to experimental study of corals and salinity, a quantitative suvery of Pao Pao Bay was performed. The main objective of this survey was to examine the spatial pattern of diversity of corals (Cnidaria) between the back (land-end) and mouth (ocean-end) of the bay. A strong gradient in individual frequency and species richness was found between the back, where five of the eight genera examined were absent, and the mouth of the bay where they were abundant. The absence of corals at the back of the bay may be explained by low salinity and high turbidity which occur after heavy rains during the wet season.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Salinity level contributions to bleaching and distribution of corals in Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2001",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2001",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -107,6 +127,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2001",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

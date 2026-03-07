@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "The effects of competition on the distributions of three gecko species on Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2005",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2005",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "Natalie M. M.",
+        "family_name": "Reeder",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "The introduction of Hemidactylus frenatus to oceanic islands has caused the decline of native species in urbanized areas on several documented occasions. H. frenatus was recently introduced to the island of Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea, French Polynesia. A distributional study using transects was conducted to determine the respective habitats of Gehyra oceanica, Lepidodactylus lugubris, and H. frenatus and to show if they occur together. Behavioral experiments designed to test competition for insect prey were conducted on each species pair to determine the effect their presence had on each other. H. frenatus is only found on and around buildings while both G. oceanica and L. lugubris can also be found in the forests. G. oceanica and L. lugubris seem to avoid one another while neither reacts to the presence of H. frenatus. This follows the evolutionary history of the herpetofauna of the island since G. oceanica and L. lugubris have lived in sympatry long enough to have developed a behavioral response to each other. The lack of direct effect of H. frenatus\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5 presence may support an exploitation competition mechanism for this species\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5 effects elsewhere.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "The effects of competition on the distributions of three gecko species on Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2005",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2005",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -104,6 +124,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "Terrestrial"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2005",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,

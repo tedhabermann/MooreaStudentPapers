@@ -16,33 +16,20 @@
         ]
       }
     ],
-    "title": [
-      {
-        "lang": "en",
-        "title": "Ecological and ethnobotanical investigations of algae and the factors influencing their distribution on Moorea, French Polynesia"
-      }
-    ],
-    "publicationYear": "2002",
-    "publisher": {
-      "name": "University of California, Berkeley",
-      "publisherIdentifier": "https://ror.org/01an7q238",
-      "publisherIdentifierScheme": "ROR",
-      "lang": "en"
-    },
-    "dates": [
-      [
-        {
-          "date": "2002",
-          "dateType": "CopyrightYear"
-        }
-      ]
-    ],
-    "types": [
-      {
-        "resourceTypeGeneral": "Preprint"
-      }
-    ],
     "contributors": [
+      {
+        "nameType": "personal",
+        "given_name": "P.",
+        "family_name": "Vassef",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley",
+            "affiliationIdentifier": "https://ror.org/01an7q238",
+            "affiliationIdentifierScheme": "ROR"
+          }
+        ],
+        "contributorType": "RightsHolder"
+      },
       [
         {
           "nameType": "organizational",
@@ -64,6 +51,39 @@
           ]
         }
       ]
+    ],
+    "descriptions": [
+      {
+        "lang": "en",
+        "description": "Algae are a food source of prime importance throughout the Pacific, and though algae are currently consumed throughout at least two archipelagoes of French Polynesia, the extent of their use is minimal in the Society Islands. Practitioners of traditional Tahitian therapy Ra\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5au Tahiti revealed that eight marine species are or have once been used in the Austral Islands, one marine species is used in the Marquesas, while five marine species and two undetermined freshwater species are or have been used in the Society Islands. The purpose of this study is to evaluate the extent of the use of algae for food or medicine by interviewing Tahitian healers, as well as to survey and compare the distribution of algae in different environments and examine substrate composition in order to assess the impact of sedimentation deposited into the lagoon as a result of industrial agriculture. Transects were conducted at two different depths (and/or distance) from the shore at ten different sites evenly spaced around the island of Mo\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5orea. Percent algal cover, substrate composition, depth, temperature, salinity, turbidity, and phosphate and nitrate levels were measured. The ten sites were distributed into two site types; five sites were located at the mouth of an estuary and five were distant from any point source. The distribution of cumulative percent cover of algae and substrate types per transect were analyzed considering both factors of site type and depth. Variances in distributions of silt and of sand were significant across different site types and their distribution displayed a strong negative correlation. A regression showed a strong relationship between the cumulative percent cover of silt per transect and turbidity. Fossilized coral was the most suitable substrate for algal growth, as its distribution correlated with the distributions of many algal species or genera. Results and observations indicate that though the human impact on the lagoon is minimal, runoff from estuaries is detrimental to algal recruitment and growth.",
+        "descriptionType": "Abstract"
+      }
+    ],
+    "title": [
+      {
+        "lang": "en",
+        "title": "Ecological and ethnobotanical investigations of algae and the factors influencing their distribution on Moorea, French Polynesia"
+      }
+    ],
+    "publicationYear": "2002",
+    "publisher": {
+      "name": "University of California, Berkeley",
+      "publisherIdentifier": "https://ror.org/01an7q238",
+      "publisherIdentifierScheme": "ROR",
+      "lang": "en"
+    },
+    "dates": [
+      [
+        {
+          "date": "2002",
+          "dateType": "Copyrighted"
+        }
+      ]
+    ],
+    "types": [
+      {
+        "resourceTypeGeneral": "Preprint"
+      }
     ],
     "subjects": [
       {
@@ -95,6 +115,14 @@
     "geoLocations": [
       {
         "geoLocationPlace": "marine"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "relatedIdentifier": "ProjectIdentifierFor2002",
+        "relationType": "IsPartOf",
+        "resourceTypeGeneral": "Project",
+        "relatedIdentifierType": "DOI"
       }
     ],
     "version": 1,
